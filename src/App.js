@@ -5,7 +5,7 @@ import AppRouter from './components/AppRouter';
 import {BrowserRouter} from 'react-router-dom';
 import NavMenu from './components/NavMenu';
 import Footer from './components/Footer';
-import Preloader from './components/Preloader';
+// import Preloader from './components/Preloader';
 
 
 const App = () => {

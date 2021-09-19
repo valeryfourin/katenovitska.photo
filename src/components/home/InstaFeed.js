@@ -1,8 +1,8 @@
 import React from 'react';
 import { Container, Image, Row } from 'react-bootstrap';
 import { useTranslation } from 'react-i18next';
-import { NavLink } from 'react-router-dom';
-import { FAQ_ROUTE } from '../../utils/consts';
+// import { NavLink } from 'react-router-dom';
+// import { FAQ_ROUTE } from '../../utils/consts';
 import '../../styles/home/InstaFeed.scss';
 
 const InstaFeed = () => {

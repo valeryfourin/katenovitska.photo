@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Image, Nav, Navbar, NavDropdown } from 'react-bootstrap';
-import { NavLink} from 'react-router-dom';
+// import { NavLink} from 'react-router-dom';
 import LangChoice from './LangChoice';
 // import PortfolioDropdown from './PortfolioDropdown';
 import '../styles/NavMenu.scss';

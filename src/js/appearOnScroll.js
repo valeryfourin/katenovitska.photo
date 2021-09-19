@@ -10,7 +10,6 @@ function throttleScroll(e) {
     });
     }
     isScrolling = true;
-    console.log(1)
 }
 
 document.addEventListener("DOMContentLoaded", scrolling, false);

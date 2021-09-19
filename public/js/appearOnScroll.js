@@ -17,7 +17,6 @@ document.addEventListener("DOMContentLoaded", scrolling, false);
 let listItems = document.querySelectorAll(".arisen-item");
 
 function scrolling(e) {
-    console.log(listItems)
     for (let i = 0; i < listItems.length; i++) {
         
         let listItem = listItems[i];
