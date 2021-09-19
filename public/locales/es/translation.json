@@ -1,0 +1,85 @@
+{
+    "menu": {
+        "home": "Principal",
+        "about": "Sobre mi",
+        "portfolio": "Portafolio",
+        "weddings": "Bodas",
+        "lovestories": "Historias de amor",
+        "portraits": "Retratos",
+        "faq": "FAQ",
+        "contact": "Contactos",
+        "policy": "Privacy Policy"
+    },
+    "contactMe": {
+        "text": "Contáctame",
+        "location": "Mi ubicación actual es en Quito — Ecuador. Me encantaría ser parte de tus momentos fuera del país! Estados Unidos, Europa, o el lugar de tu ocasión. Si quieres reservar — contáctame:",
+        "number": "Número"
+    },
+    "quote": "Más que una sesión fotográfica, una experiencia inolvidable.",
+    "followSocialMedia": {
+        "text": "¡Sígueme en las redes sociales!",
+        "insta": "¡Sígueme en Instagram!"
+    },
+    "form": {
+        "name": "Nombre",
+        "msg": "Tu mensaje",
+        "send": "Enviar"
+    },
+    "moreInfo": {
+        "text1": "¿Todavía tienes preguntas?",
+        "text2": "Los más comunes se pueden encontrar en la página.",
+        "text3": "¿No encontraste las respuestas?",
+        "text4": "¡Mándame un correo electrónico y me ocuparé de ti!"
+    },
+    "homeIntro": {
+        "welcome": "¡Bienvenido!",
+        "whoIAm": "¡Soy Kate Novitska y la fotografía es mi pasión!",
+        "offer": "Realmente me gustaría trabajar contigo y ayudarte a hacer que los momentos importantes sean eternos.",
+        "work": "Te puedo garantizar que lo pasaremos en grande y al final obtendrás hermosas fotos para recordarlo. Echa un vistazo a mi trabajo. ¡Espero que te guste!"
+    },
+    "aboutMe": {
+        "name": "Mi nombre es Kate Novitska",
+        "passion": "y me encanta tomar fotos! Nunca dejo de mejorar mi técnica, siempre quiero hacer los mejores golpes!",
+        "bestPart": "¡La mejor parte de mi trabajo es hacerte reír, crear emociones genuinas y sonrisas sinceras!",
+        "guarantee": "Mi mayor garantía es que la pasaremos en grande durante la sesión de fotos y al final recibirás hermosas fotos para recordarlo.",
+        "work": "Echa un vistazo a mi trabajo. ¡Espero que te guste!"
+    },
+    "close": {
+        "text": "Cerrar"
+    },
+    "faq": {
+        "title": "Preguntas frecuentes:",
+        "q1": "¿Cual es tu estilo?",
+        "a1": "Me gusta la fotografía Documental. Mi estilo es contar con mis fotos la historia de tu boda. Intento no dirigir o intervenir en  momentos de la boda, exceptuando en aquellos en los que se realizan los retratos de los novios y las fotos de pareja.",
+        "q2": "¿Dónde puedo conseguir los precios?",
+        "a21": "Contácteme con cualquier método desde ",
+        "a2link": "AQUÍ", 
+        "a22":" con la solicitud 'Por favor envíeme la lista de precios para bodas (o retratos)' para obtener los precios más relevantes.",
+        "q3": "¿Cuánto tiempo vas a estar en mi boda?",
+        "a3": "Hay diferentes paquetes, empezando por una boda íntima de 3-4 horas y una boda completa de 8-10 horas. Pero podríamos personalizar un paquete para que se ajuste a tu boda.",
+        "q4": "¿Realizas fotos de grupo familiar?",
+        "a4": "Si, claro, las fotos de grupos de familia y amigos también las realizo, pero en mayor medida me dedico a la fotografía documental en tu boda.",
+        "q5": "¿Que hago si no se posar?",
+        "a5": "No te preocupes - no tienes que posar! Solamente relajate y yo me dedico al resto!",
+        "q6": "¿Viajarás?",
+        "a6": "Mi ciudad sede es Quito, pero estaré encantada de viajar donde me necesites!",
+        "q7": "¿Cuando entregas las fotos de mi boda?",
+        "a7": "Entre 15 a 20 días hábiles después de tu boda. Pero si necesitas las fotos antes - podría hacerlo realidad!",
+        "q8": "¿Puedo escoger las fotos para el retoque?",
+        "a8": "Si! Solo tienes que mencionar ese detalle y te enviaria un link con todas las fotos buenas de la boda o sesión de fotos para que tu puedas escoger, las que más te gustan!",
+        "q9": "¿Cómo funcionan los calendarios de pago?",
+        "a9": "Se requiere un anticipo para asegurar la fecha en mi calendario, y el debe ser cancelado en cualquier momento hasta un par de días antes del día de la cobertura.",
+        "q10": "¿Puedes hacernos photoshop?",
+        "a10": "Si! La mayoria de los fotografos no lo hacen, pero yo si! Si necesitan - puedo hacer retoque en photoshop de cara y un poco del cuerpo en sus retratos.", 
+        "q11": "¿Cómo recibiremos nuestras fotos?",
+        "a11": "Recibirás una galería online personalizada con todas tus imágenes editadas de alta resolución. Esta galería puede ser compartida con la familia y los amigos, donde todo el mundo puede descargarlas y compartirlas. Todas las imágenes se entregan en alta resolución, sin marcas de agua, retocadas y listas para enviar a imprimir. Podrás hacer cualquier impresión libremente o subirlas a las redes sociales sin ninguna restricción.", 
+        "q12": "¿Tienes equipo de respaldo?",
+        "a12": "Siempre! Cámara, flash, tarjetas, baterías…todo lo necesario por si acaso!  Es muy importante que sus fotos sean completamente seguras.",
+        "q13": "¿Entregas fotos impresas?",
+        "a13": "Claro que si! Se puede pedir un hermoso libro de fotos aparte con las fotos que mas te gustaron!", 
+        "q14": "¿Cómo te reservamos?",
+        "a141": "Puedes contactarme ", 
+        "a14link": "AQUÍ", 
+        "a142": ", para que podamos concertar una cita para hablar. Si crees que encajamos perfectamente y quieres reservar. Se realiza un pago inicial para la reserva cualquier fecha."
+    }
+}

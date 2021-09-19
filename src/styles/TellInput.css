@@ -1,0 +1,13 @@
+.intl-tel-input .flag-container { 
+    padding-left: 15px !important;
+  }
+  
+  .intl-tel-input .flag-container .arrow {
+    font-size: unset !important;
+    margin-left: 0px !important;
+    margin-right: 5px !important;
+  }
+  
+  .intl-tel-input {
+    width: 100% !important;
+  }

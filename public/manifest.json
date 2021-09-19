@@ -1,0 +1,25 @@
+{
+  "short_name": "Assercoex",
+  "name": "Assercoex Flowers and Logistics",
+  "icons": [
+    {
+      "src": "rose.svg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/svg"
+    },
+    {
+      "src": "rose.svg",
+      "type": "image/svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "rose.svg",
+      "type": "image/svg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#dbcbcc"
+}

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Didact Gothic";
+    src: 
+     url("./fonts/didactgothic/DidactGothic-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "PlayfairDisplay";
+    src: 
+     url("./fonts/playfair/PlayfairDisplay-Regular.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Windsong";
+    src: 
+     url("./fonts/windsong/WindSong-Regular.ttf") format("truetype");
+}

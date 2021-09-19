@@ -1,0 +1,19 @@
+.front-image-container {
+    width: 100vw;
+    height: 85vh;
+    position: absolute;
+    display: flex;
+    justify-content: center;
+}
+
+.front-image {
+    width: 100vw;
+    height: 60vh;
+    display: block;
+    position: absolute;
+    margin: auto;
+    z-index: 100;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-position: 70% 70%;
+}

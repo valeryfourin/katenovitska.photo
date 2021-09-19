@@ -1,0 +1,392 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-07-04 20:53:51
+count workspace : e:\frontend\websites\assercoex\assercoex
+total files : 149
+total code lines : 40429
+total comment lines : 103
+total blank lines : 250
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |               |             18|              1|              5|  0.045|
+   |            .js|            790|             62|            135|    2.0|
+   |           .css|            153|              1|             26|   0.38|
+   |          .json|          38991|              0|             12|     96|
+   |            .md|             38|             12|             32|  0.094|
+   |           .svg|            130|              0|              0|   0.32|
+   |          .scss|            278|              2|             40|   0.69|
+   |           .txt|              3|              1|              0| 0.0074|
+   |          .html|             28|             24|              0|  0.069|
+   -------------------------------------------------------------------------
+.gitignore, code is 18, comment is 1, blank is 5.
+package-lock.json, code is 38680, comment is 0, blank is 5.
+package.json, code is 46, comment is 0, blank is 3.
+public\favicon.ico, it is a binary file.
+public\images\general\bouquet.jpg, it is a binary file.
+public\images\general\contact-form-rose-bg.jpg, it is a binary file.
+public\images\general\flowers-banner.jpg, it is a binary file.
+public\images\general\flowers-contact-bg.jpg, it is a binary file.
+public\images\general\main-banner.jpg, it is a binary file.
+public\images\general\our-service-banner.jpg, it is a binary file.
+public\images\general\pink-rose.jpg, it is a binary file.
+public\images\general\rose-bud.png, it is a binary file.
+public\images\general\rose-petals.png, it is a binary file.
+public\images\icons\1.png, it is a binary file.
+public\images\icons\1.svg, code is 1, comment is 0, blank is 0.
+public\images\icons\2.png, it is a binary file.
+public\images\icons\3.png, it is a binary file.
+public\images\icons\3.svg, code is 1, comment is 0, blank is 0.
+public\images\icons\analysis.png, it is a binary file.
+public\images\icons\box.png, it is a binary file.
+public\images\icons\cooperation.png, it is a binary file.
+public\images\icons\delivery-truck.png, it is a binary file.
+public\images\icons\delivery.png, it is a binary file.
+public\images\icons\eco-car.png, it is a binary file.
+public\images\icons\grandfather.png, it is a binary file.
+public\images\icons\grandmother.png, it is a binary file.
+public\images\icons\instagram.png, it is a binary file.
+public\images\icons\mail.png, it is a binary file.
+public\images\icons\man-1.png, it is a binary file.
+public\images\icons\man-2.png, it is a binary file.
+public\images\icons\man-3.png, it is a binary file.
+public\images\icons\man-4.png, it is a binary file.
+public\images\icons\networking.png, it is a binary file.
+public\images\icons\paper.png, it is a binary file.
+public\images\icons\party.png, it is a binary file.
+public\images\icons\phone.png, it is a binary file.
+public\images\icons\proofreading.png, it is a binary file.
+public\images\icons\rose (1).png, it is a binary file.
+public\images\icons\rose (2).png, it is a binary file.
+public\images\icons\rose (3).png, it is a binary file.
+public\images\icons\rose (4).png, it is a binary file.
+public\images\icons\rose.png, it is a binary file.
+public\images\icons\russia.svg, code is 38, comment is 0, blank is 0.
+public\images\icons\shipped.png, it is a binary file.
+public\images\icons\sketch.png, it is a binary file.
+public\images\icons\telegram.png, it is a binary file.
+public\images\icons\truck (1).png, it is a binary file.
+public\images\icons\truck.png, it is a binary file.
+public\images\icons\united-states.svg, code is 89, comment is 0, blank is 0.
+public\images\icons\up-arrow.png, it is a binary file.
+public\images\icons\viber.png, it is a binary file.
+public\images\icons\whatsapp.png, it is a binary file.
+public\images\icons\woman-1.png, it is a binary file.
+public\images\icons\woman-2.png, it is a binary file.
+public\images\icons\woman-3.png, it is a binary file.
+public\images\logo.jpg, it is a binary file.
+public\index.html, code is 28, comment is 24, blank is 0.
+public\js\parallaxOnMove.js, code is 16, comment is 2, blank is 1.
+public\js\parallaxOnScroll.js, code is 73, comment is 2, blank is 13.
+public\locales\en\translation.json, code is 112, comment is 0, blank is 1.
+public\locales\ru\translation.json, code is 112, comment is 0, blank is 3.
+public\manifest.json, code is 25, comment is 0, blank is 0.
+public\robots.txt, code is 3, comment is 1, blank is 0.
+README.md, code is 38, comment is 12, blank is 32.
+src\App.css, code is 33, comment is 0, blank is 5.
+src\App.js, code is 15, comment is 15, blank is 8.
+src\App.test.js, code is 7, comment is 0, blank is 1.
+src\components\about\AboutUsSection.js, code is 30, comment is 0, blank is 2.
+src\components\about\AddHelpSection.js, code is 8, comment is 0, blank is 3.
+src\components\about\FlowersSection.js, code is 8, comment is 0, blank is 3.
+src\components\about\ProductsSection.js, code is 8, comment is 0, blank is 3.
+src\components\AppRouter.js, code is 15, comment is 0, blank is 2.
+src\components\Btn.js, code is 9, comment is 0, blank is 2.
+src\components\DivisionLine.js, code is 8, comment is 0, blank is 2.
+src\components\Footer.js, code is 46, comment is 0, blank is 4.
+src\components\home\AskQuoteSection.js, code is 55, comment is 0, blank is 5.
+src\components\home\CardCarousel.js, code is 50, comment is 0, blank is 7.
+src\components\home\ContactForm.js, code is 22, comment is 0, blank is 2.
+src\components\home\FrontImage.js, code is 10, comment is 0, blank is 2.
+src\components\home\MainBanner.js, code is 12, comment is 0, blank is 3.
+src\components\home\RequestSection.js, code is 21, comment is 0, blank is 3.
+src\components\home\ReviewsSection.js, code is 16, comment is 0, blank is 3.
+src\components\home\ServicesBanner.js, code is 42, comment is 0, blank is 11.
+src\components\home\ShippingSection.js, code is 30, comment is 0, blank is 7.
+src\components\home\SideImage.js, code is 10, comment is 0, blank is 2.
+src\components\home\WhyUsBanner.js, code is 31, comment is 0, blank is 3.
+src\components\NavHeader.js, code is 34, comment is 0, blank is 4.
+src\components\NavMenu.js, code is 38, comment is 0, blank is 3.
+src\components\ToTopArrow.js, code is 11, comment is 0, blank is 2.
+src\fonts\Montserrat-Light.ttf, it is a binary file.
+src\fonts\Montserrat-Regular.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Black.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-BlackItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Bold.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-BoldItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ExtraBold.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ExtraBoldItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ExtraLight.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ExtraLightItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Italic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-LightItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Medium.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-MediumItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Regular.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-SemiBold.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-SemiBoldItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Thin.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ThinItalic.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Black.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Bold.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-ExtraBold.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-ExtraLight.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Medium.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Regular.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-SemiBold.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Thin.ttf, it is a binary file.
+src\fonts\RobotoSlab-Light.ttf, it is a binary file.
+src\i18n.js, code is 22, comment is 30, blank is 16.
+src\index.css, code is 100, comment is 1, blank is 18.
+src\index.js, code is 17, comment is 9, blank is 3.
+src\lang.js, code is 0, comment is 0, blank is 0.
+src\locales\en\translation.json, code is 8, comment is 0, blank is 0.
+src\locales\ru\translation.json, code is 8, comment is 0, blank is 0.
+src\logo.jpg, it is a binary file.
+src\logo.svg, code is 1, comment is 0, blank is 0.
+src\pages\About.js, code is 9, comment is 0, blank is 2.
+src\pages\Catalog.js, code is 9, comment is 0, blank is 2.
+src\pages\Contact.js, code is 9, comment is 0, blank is 2.
+src\pages\FAQ.js, code is 9, comment is 0, blank is 2.
+src\pages\Home.js, code is 29, comment is 0, blank is 2.
+src\pages\PrivacyPolicy.js, code is 9, comment is 0, blank is 2.
+src\reportWebVitals.js, code is 12, comment is 0, blank is 1.
+src\responsive.css, code is 20, comment is 0, blank is 3.
+src\routes.js, code is 33, comment is 0, blank is 2.
+src\setupTests.js, code is 1, comment is 4, blank is 0.
+src\styles\Btn.scss, code is 27, comment is 0, blank is 5.
+src\styles\CardCarousel.scss, code is 34, comment is 0, blank is 7.
+src\styles\DivisionLine.scss, code is 6, comment is 0, blank is 0.
+src\styles\Footer.scss, code is 9, comment is 0, blank is 1.
+src\styles\FullWidthBanner.scss, code is 16, comment is 0, blank is 1.
+src\styles\home\FrontImage.scss, code is 18, comment is 0, blank is 1.
+src\styles\home\RequestSection.scss, code is 4, comment is 0, blank is 0.
+src\styles\home\ShippingSection.scss, code is 82, comment is 0, blank is 10.
+src\styles\home\SideImage.scss, code is 18, comment is 0, blank is 1.
+src\styles\home\WhyUsBanner.scss, code is 16, comment is 2, blank is 4.
+src\styles\NavHeader.scss, code is 32, comment is 0, blank is 8.
+src\styles\NavMenu.scss, code is 6, comment is 0, blank is 1.
+src\styles\ToTopArrow.scss, code is 10, comment is 0, blank is 1.
+src\utils\consts.js, code is 6, comment is 0, blank is 0.
+===============================================================================
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-07-07 01:43:19
+count workspace : e:\frontend\websites\assercoex\assercoex
+total files : 193
+total code lines : 41204
+total comment lines : 134
+total blank lines : 304
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |               |             18|              1|              5|  0.044|
+   |          .json|          39055|              0|             11|     95|
+   |            .js|           1340|             82|            162|    3.3|
+   |           .css|            179|              1|             32|   0.43|
+   |          .scss|            413|             12|             62|    1.0|
+   |           .svg|            130|              0|              0|   0.32|
+   |            .md|             38|             12|             32|  0.092|
+   |           .txt|              3|              1|              0| 0.0073|
+   |          .html|             28|             25|              0|  0.068|
+   -------------------------------------------------------------------------
+.gitignore, code is 18, comment is 1, blank is 5.
+package-lock.json, code is 38680, comment is 0, blank is 5.
+package.json, code is 46, comment is 0, blank is 3.
+public\favicon.ico, it is a binary file.
+public\images\catalog\BICOLOR\3D.jpg, it is a binary file.
+public\images\catalog\BICOLOR\ATOMIC.jpg, it is a binary file.
+public\images\catalog\BICOLOR\CABARET.jpg, it is a binary file.
+public\images\catalog\BICOLOR\CAROUSEL.jpg, it is a binary file.
+public\images\catalog\BICOLOR\CIRCUS.jpg, it is a binary file.
+public\images\catalog\BICOLOR\COFFEEBREAK.jpg, it is a binary file.
+public\images\catalog\BICOLOR\ESPAÑA.jpg, it is a binary file.
+public\images\catalog\BICOLOR\FRUTETTO.jpg, it is a binary file.
+public\images\catalog\BICOLOR\HIGHMAGIC.jpg, it is a binary file.
+public\images\catalog\BICOLOR\MAGICTIMES.jpg, it is a binary file.
+public\images\catalog\BICOLOR\MAIN OPTION 2.jpg, it is a binary file.
+public\images\catalog\BICOLOR\MAIN.jpg, it is a binary file.
+public\images\catalog\BICOLOR\NEWSFLASH.jpg, it is a binary file.
+public\images\catalog\BICOLOR\PALOMA.jpg, it is a binary file.
+public\images\catalog\BICOLOR\SWEETBERRY.jpg, it is a binary file.
+public\images\catalog\BICOLOR\SWEETNESS.jpg, it is a binary file.
+public\images\catalog\CREAM\CREAMDELACREAM.jpg, it is a binary file.
+public\images\catalog\CREAM\MAIN.jpg, it is a binary file.
+public\images\catalog\CREAM\MOONSTONE.jpg, it is a binary file.
+public\images\catalog\CREAM\QUEENOFPEARL.jpg, it is a binary file.
+public\images\catalog\CREAM\QUICKSAND.jpg, it is a binary file.
+public\images\catalog\CREAM\SAHARA.jpg, it is a binary file.
+public\images\catalog\CREAM\VENDELA.jpg, it is a binary file.
+public\images\catalog\GREEN\GREENTEA.jpg, it is a binary file.
+public\images\catalog\GREEN\LEMONADE.jpg, it is a binary file.
+public\images\catalog\GREEN\MAIN.jpg, it is a binary file.
+public\images\catalog\HOTPINK\CHERRYO!.jpg, it is a binary file.
+public\images\catalog\HOTPINK\GOTCHA.jpg, it is a binary file.
+public\images\catalog\HOTPINK\HOTEXPLORER.jpg, it is a binary file.
+public\images\catalog\HOTPINK\HOTLADY.jpg, it is a binary file.
+public\images\catalog\HOTPINK\LOLA.jpg, it is a binary file.
+public\images\catalog\HOTPINK\MAIN.JPG, it is a binary file.
+public\images\catalog\HOTPINK\PINKFLOYD.jpg, it is a binary file.
+public\images\catalog\HOTPINK\TOPAZ.jpg, it is a binary file.
+public\images\general\bouquet.jpg, it is a binary file.
+public\images\general\contact-form-rose-bg.jpg, it is a binary file.
+public\images\general\flowers-banner.jpg, it is a binary file.
+public\images\general\flowers-contact-bg.jpg, it is a binary file.
+public\images\general\main-banner.jpg, it is a binary file.
+public\images\general\our-service-banner.jpg, it is a binary file.
+public\images\general\pink-rose.jpg, it is a binary file.
+public\images\general\rose-bud.png, it is a binary file.
+public\images\general\rose-petals.png, it is a binary file.
+public\images\icons\1.png, it is a binary file.
+public\images\icons\1.svg, code is 1, comment is 0, blank is 0.
+public\images\icons\2.png, it is a binary file.
+public\images\icons\3.png, it is a binary file.
+public\images\icons\3.svg, code is 1, comment is 0, blank is 0.
+public\images\icons\analysis.png, it is a binary file.
+public\images\icons\box.png, it is a binary file.
+public\images\icons\cooperation.png, it is a binary file.
+public\images\icons\delivery.png, it is a binary file.
+public\images\icons\eco-car.png, it is a binary file.
+public\images\icons\grandfather.png, it is a binary file.
+public\images\icons\grandmother.png, it is a binary file.
+public\images\icons\instagram.png, it is a binary file.
+public\images\icons\mail.png, it is a binary file.
+public\images\icons\man-1.png, it is a binary file.
+public\images\icons\man-2.png, it is a binary file.
+public\images\icons\man-3.png, it is a binary file.
+public\images\icons\man-4.png, it is a binary file.
+public\images\icons\networking.png, it is a binary file.
+public\images\icons\paper.png, it is a binary file.
+public\images\icons\party.png, it is a binary file.
+public\images\icons\phone.png, it is a binary file.
+public\images\icons\proofreading.png, it is a binary file.
+public\images\icons\rose-1.png, it is a binary file.
+public\images\icons\rose-2.png, it is a binary file.
+public\images\icons\rose-3.png, it is a binary file.
+public\images\icons\rose-4.png, it is a binary file.
+public\images\icons\rose-5.png, it is a binary file.
+public\images\icons\russia.svg, code is 38, comment is 0, blank is 0.
+public\images\icons\shipped.png, it is a binary file.
+public\images\icons\sketch.png, it is a binary file.
+public\images\icons\skype.png, it is a binary file.
+public\images\icons\telegram.png, it is a binary file.
+public\images\icons\truck-1.png, it is a binary file.
+public\images\icons\truck-2.png, it is a binary file.
+public\images\icons\truck-3.png, it is a binary file.
+public\images\icons\united-states.svg, code is 89, comment is 0, blank is 0.
+public\images\icons\up-arrow.png, it is a binary file.
+public\images\icons\viber.png, it is a binary file.
+public\images\icons\whatsapp.png, it is a binary file.
+public\images\icons\woman-1.png, it is a binary file.
+public\images\icons\woman-2.png, it is a binary file.
+public\images\icons\woman-3.png, it is a binary file.
+public\images\logo.jpg, it is a binary file.
+public\index.html, code is 28, comment is 25, blank is 0.
+public\js\parallaxOnMove.js, code is 16, comment is 2, blank is 1.
+public\js\parallaxOnScroll.js, code is 73, comment is 2, blank is 13.
+public\locales\en\translation.json, code is 144, comment is 0, blank is 1.
+public\locales\ru\translation.json, code is 144, comment is 0, blank is 2.
+public\manifest.json, code is 25, comment is 0, blank is 0.
+public\robots.txt, code is 3, comment is 1, blank is 0.
+README.md, code is 38, comment is 12, blank is 32.
+src\App.css, code is 33, comment is 0, blank is 5.
+src\App.js, code is 15, comment is 15, blank is 8.
+src\App.test.js, code is 7, comment is 0, blank is 1.
+src\components\about\AboutUsSection.js, code is 42, comment is 0, blank is 2.
+src\components\about\AddHelpSection.js, code is 46, comment is 0, blank is 10.
+src\components\about\FlowersSection.js, code is 36, comment is 0, blank is 4.
+src\components\about\ProductsSection.js, code is 8, comment is 0, blank is 3.
+src\components\AppRouter.js, code is 15, comment is 0, blank is 2.
+src\components\Btn.js, code is 9, comment is 0, blank is 2.
+src\components\catalog\SortModal.js, code is 41, comment is 0, blank is 5.
+src\components\catalog\sortsArray.js, code is 181, comment is 0, blank is 4.
+src\components\DivisionLine.js, code is 8, comment is 0, blank is 2.
+src\components\faq\CardQuestion.js, code is 16, comment is 0, blank is 2.
+src\components\Footer.js, code is 46, comment is 0, blank is 4.
+src\components\home\AskQuoteSection.js, code is 55, comment is 0, blank is 5.
+src\components\home\CardCarousel.js, code is 50, comment is 0, blank is 7.
+src\components\home\ContactForm.js, code is 22, comment is 0, blank is 2.
+src\components\home\FrontImage.js, code is 10, comment is 0, blank is 2.
+src\components\home\MainBanner.js, code is 24, comment is 0, blank is 4.
+src\components\home\RequestSection.js, code is 21, comment is 0, blank is 3.
+src\components\home\ReviewsSection.js, code is 16, comment is 0, blank is 3.
+src\components\home\ServicesBanner.js, code is 42, comment is 0, blank is 10.
+src\components\home\ShippingSection.js, code is 30, comment is 0, blank is 7.
+src\components\home\SideImage.js, code is 10, comment is 0, blank is 2.
+src\components\home\WhyUsBanner.js, code is 31, comment is 0, blank is 3.
+src\components\NavHeader.js, code is 34, comment is 0, blank is 4.
+src\components\NavMenu.js, code is 38, comment is 0, blank is 3.
+src\components\pictureChange.js, code is 0, comment is 20, blank is 4.
+src\components\ToTopArrow.js, code is 11, comment is 0, blank is 2.
+src\fonts\Montserrat-Light.ttf, it is a binary file.
+src\fonts\Montserrat-Regular.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Black.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-BlackItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Bold.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-BoldItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ExtraBold.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ExtraBoldItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ExtraLight.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ExtraLightItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Italic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-LightItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Medium.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-MediumItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Regular.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-SemiBold.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-SemiBoldItalic.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-Thin.ttf, it is a binary file.
+src\fonts\montserrat\Montserrat-ThinItalic.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Black.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Bold.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-ExtraBold.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-ExtraLight.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Medium.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Regular.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-SemiBold.ttf, it is a binary file.
+src\fonts\roboto slab\RobotoSlab-Thin.ttf, it is a binary file.
+src\fonts\RobotoSlab-Light.ttf, it is a binary file.
+src\i18n.js, code is 22, comment is 30, blank is 16.
+src\index.css, code is 122, comment is 1, blank is 23.
+src\index.js, code is 23, comment is 6, blank is 3.
+src\lang.js, code is 0, comment is 0, blank is 0.
+src\locales\en\translation.json, code is 8, comment is 0, blank is 0.
+src\locales\ru\translation.json, code is 8, comment is 0, blank is 0.
+src\logo.jpg, it is a binary file.
+src\logo.svg, code is 1, comment is 0, blank is 0.
+src\pages\About.js, code is 19, comment is 0, blank is 3.
+src\pages\Catalog.js, code is 24, comment is 1, blank is 5.
+src\pages\Contact.js, code is 49, comment is 0, blank is 2.
+src\pages\FAQ.js, code is 41, comment is 0, blank is 2.
+src\pages\Home.js, code is 30, comment is 0, blank is 2.
+src\pages\PrivacyPolicy.js, code is 127, comment is 2, blank is 2.
+src\reportWebVitals.js, code is 12, comment is 0, blank is 1.
+src\responsive.css, code is 24, comment is 0, blank is 4.
+src\routes.js, code is 33, comment is 0, blank is 2.
+src\setupTests.js, code is 1, comment is 4, blank is 0.
+src\styles\about\AboutUsSection.scss, code is 19, comment is 0, blank is 4.
+src\styles\about\AddHelpSection.scss, code is 26, comment is 1, blank is 4.
+src\styles\Btn.scss, code is 33, comment is 9, blank is 7.
+src\styles\CardCarousel.scss, code is 34, comment is 0, blank is 7.
+src\styles\catalog\Catalog.scss, code is 62, comment is 0, blank is 10.
+src\styles\DivisionLine.scss, code is 6, comment is 0, blank is 0.
+src\styles\faq\CardQuestion.scss, code is 7, comment is 0, blank is 0.
+src\styles\Footer.scss, code is 9, comment is 0, blank is 1.
+src\styles\FullWidthBanner.scss, code is 16, comment is 0, blank is 1.
+src\styles\home\FrontImage.scss, code is 18, comment is 0, blank is 1.
+src\styles\home\RequestSection.scss, code is 8, comment is 0, blank is 1.
+src\styles\home\ShippingSection.scss, code is 82, comment is 0, blank is 10.
+src\styles\home\SideImage.scss, code is 18, comment is 0, blank is 1.
+src\styles\home\WhyUsBanner.scss, code is 16, comment is 2, blank is 4.
+src\styles\NavHeader.scss, code is 33, comment is 0, blank is 8.
+src\styles\NavMenu.scss, code is 6, comment is 0, blank is 1.
+src\styles\text.scss, code is 0, comment is 0, blank is 0.
+src\styles\ToTopArrow.scss, code is 20, comment is 0, blank is 2.
+src\utils\consts.js, code is 6, comment is 0, blank is 0.
+===============================================================================

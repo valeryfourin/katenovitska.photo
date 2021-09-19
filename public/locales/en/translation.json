@@ -1,0 +1,86 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About me",
+        "portfolio": "Portfolio",
+        "weddings": "Weddings",
+        "lovestories": "Love Stories",
+        "portraits": "Portraits",
+        "faq": "FAQ",
+        "contact": "Contact",
+        "policy": "Privacy Policy"
+    },
+    "contactMe": {
+        "text": "Contact me",
+        "location": "My current location is Quito, Ecuador But I'm open to new suggestions and ready to hold a photoshoot in your country if you are not in Ecuador. Ready to shoot in USA, Europe, etc If you want to book a photoshoot use contact form or any of these methods:",
+        "number": "Number"
+    },
+    "quote": "More than a photosession, an unforgettable experience.",
+    "followSocialMedia": {
+        "text": "Follow me on social media",
+        "insta": "Follow me on Instagram!"
+    },
+    "form": {
+        "title": "Leave a request and I will contact you as soon as possible",
+        "name": "Name",
+        "msg": "Your message",
+        "send": "Send"
+    },
+    "moreInfo": {
+        "text1": "Got questions left?",
+        "text2": "The most common ones can be found on the page",
+        "text3": "Didn't find answers?", 
+        "text4": "Do not hesitate to fill the form below and I will contact you!"
+    },
+    "homeIntro": {
+        "welcome": "Welcome!",
+        "whoIAm": "I am Kate Novitska and photography is my passion!",
+        "offer": " I would really like to work with you and help you make important moments everlasting.",
+        "work": " I can guarantee you that we will have a great time and in the end you will get beautiful photos to remember it.  Take a look at my work. Hope you like it!"
+    },
+    "aboutMe": {
+        "name": "My name is Kate Novitska",
+        "passion": "and I love taking photos! I never stop improving my technique, I always want to take the best shots!",
+        "bestPart": "The best part of my job is making you laugh, creating genuine emotions and sincere smiles!",
+        "guarantee": "My greatest guarantee is that we will have a great time during the photoshoot and in the end you will recieve beautiful photos to remember it.",
+        "work": "Take a look at my work. I hope you like it!"
+    },
+    "close": {
+        "text": "Close"
+    },
+    "faq": {
+        "title": "Frequently asked questions:",
+        "q1": "What is your style?",
+        "a1": "I like Documentary photography. My style is to tell the story of your wedding with my photos. I try not to direct or intervene in moments of the wedding, except the portraits of the bride and groom and couple photos.",
+        "q2": "Where can I get the prices?",
+        "a21": "Contact me with any method from ",
+        "a2link": "HERE", 
+        "a22":" with the 'Please send me the pricelist for weddings (or portraits)' request in order to get the most relevant prices. ",
+        "q3": "For how long are you going to be at my wedding?",
+        "a3": "There are different packages, starting with a 3-4 hour intimate wedding and a full 8-10 hour wedding. But we could customize a package to fit your wedding.",
+        "q4": "Do you take family group photos?",
+        "a4": "Yes, of course, I also take photos of groups of family and friends, but to a greater extent I dedicate myself to documentary photography at your wedding.",
+        "q5": "What do I do if I don't know how to pose?",
+        "a5": "Don't worry - you don't have to pose! Just relax and I'll do the rest!",
+        "q6": "Will you travel?",
+        "a6": "My main city is Quito, but I will be happy to travel wherever you need me!",
+        "q7": "When do you deliver my wedding photos?",
+        "a7": "Between 15 to 20 business days after your wedding. But if you need the photos before - I could make it happen!",
+        "q8": "Can I choose the photos for retouching?",
+        "a8": "Yes! You just have to mention that detail and I will send you a link with all the good photos of the wedding or photo session so that you can choose the ones you like the most!",
+        "q9": "How does the payment schedule work?",
+        "a9": "An advance is required to secure the date on my calendar, and it must be canceled at any time up to a couple of days prior to the day of coverage.",
+        "q10": "Can you photoshop us?",
+        "a10": "Yes! Most photographers don't, but I do! If you need - I can photoshop the face and a bit of the body in your portraits.", 
+        "q11": "How will we receive our photos?",
+        "a11": "You will receive a personalized online gallery with all your high resolution edited images. This gallery can be shared with family and friends, where everyone can download and share them. All images are delivered in high resolution, without watermarks, retouched and ready to send to print. You will be able to make any impression freely or upload them to social networks without any restriction.", 
+        "q12": "Do you have backup equipment?",
+        "a12": "Always! Camera, flash, cards, batteries ... everything you need just in case! It is very important that your photos were completely secure.",
+        "q13": "Do you deliver printed photos?",
+        "a13": "Yes of course! You can order a beautiful photo book with the photos you liked the most!", 
+        "q14": "How do we book you?",
+        "a141": "You can contact me ", 
+        "a14link": "HERE", 
+        "a142": " so we can make an appointment to talk. If you think I perfectly fit and you want to book me. An initial payment is required for the reservation of any date."
+    }
+}

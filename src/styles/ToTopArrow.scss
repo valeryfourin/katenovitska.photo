@@ -1,0 +1,28 @@
+.arrow-wrap {
+    z-index: 101;
+    position: fixed;
+    bottom: 50px;
+    right: 70px;
+}
+
+.arrowup {
+    width: 70px;
+    height: 70px;
+    transform: translateX(300%);
+    transition: all .5s ease-in-out;
+}
+
+.arrowup.is-shown{
+    transform: translateX(0%);
+  }
+
+@media screen and (max-width: 500px) {
+    .arrow-wrap {
+        bottom: 30px;
+        right: 10px;
+    }
+    .arrowup{
+        width: 50px;
+        height: 50px;
+    }
+}
