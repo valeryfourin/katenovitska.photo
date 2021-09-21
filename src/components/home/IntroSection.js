@@ -3,7 +3,6 @@ import { Container, Row } from 'react-bootstrap';
 import '../../styles/home/IntroSection.scss';
 import { useTranslation } from 'react-i18next';
 import Btn from '../Btn';
-import DivisionLine from '../DivisionLine';
 import { ABOUT_ROUTE } from '../../utils/consts';
 
 const IntroSection = () => {
