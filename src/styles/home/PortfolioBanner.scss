@@ -31,3 +31,10 @@
     .portfolio-preview-main {height: 500px;}
     .portfolio-preview-main img {height: 500px;}
 }
+
+@media screen and (max-width: 774px) {
+    .portfolio-preview-main {
+        height: unset;
+        width: 400px;}
+    .portfolio-preview-main img {height: unset;}
+}

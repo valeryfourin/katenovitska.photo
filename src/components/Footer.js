@@ -1,6 +1,5 @@
 import React from 'react';
 import { Image } from 'react-bootstrap';
-import { NavLink} from 'react-router-dom';
 import '../styles/Footer.scss';
 
 import { useTranslation } from 'react-i18next';
@@ -35,16 +34,16 @@ const Footer = () => {
                             </a>
                         </div>
                         <div className="row">
-                            <NavLink className="indented-link" to={WEDDINGS_ROUTE}>{t('menu.weddings')}</NavLink>•
-                            <NavLink className="indented-link" to={ABOUT_ROUTE}>{t('menu.about')}</NavLink>•
-                            <NavLink className="indented-link" to={FAQ_ROUTE}>{t('menu.faq')}</NavLink>•
-                            <NavLink className="indented-link" to={CONTACT_ROUTE}>{t('menu.contact')}</NavLink>•
-                            <NavLink className="indented-link" to={POLICY_ROUTE}>{t('menu.policy')}</NavLink>
+                            <a className="indented-link" href={WEDDINGS_ROUTE}>{t('menu.weddings')}</a>•
+                            <a className="indented-link" href={ABOUT_ROUTE}>{t('menu.about')}</a>•
+                            <a className="indented-link" href={FAQ_ROUTE}>{t('menu.faq')}</a>•
+                            <a className="indented-link" href={CONTACT_ROUTE}>{t('menu.contact')}</a>•
+                            <a className="indented-link" href={POLICY_ROUTE}>{t('menu.policy')}</a>
                         </div>
                          
-                        <NavLink to={CONTACT_ROUTE}>
+                        <a href={CONTACT_ROUTE}>
                             <Btn className="row white" variant="light" text={t('contactMe.text')}/>
-                        </NavLink>
+                        </a>
                         <div className="row wrap">Web troubleshoot? Please contact &nbsp;<a href="mailto:valefourin@gmail.com">valefourin@gmail.com</a></div>
                         <div className="pb-4 wrap text-center">KN Photography Copyright &#169; 2021 all rights reserved </div>
                 </div>

@@ -1,8 +1,6 @@
 import React from 'react';
 import { Container, Image, Nav, Navbar, NavDropdown } from 'react-bootstrap';
-// import { NavLink} from 'react-router-dom';
 import LangChoice from './LangChoice';
-// import PortfolioDropdown from './PortfolioDropdown';
 import '../styles/NavMenu.scss';
 import { useTranslation } from 'react-i18next';
 import { ABOUT_ROUTE, WEDDINGS_ROUTE, LOVESTORIES_ROUTE, PORTRAITS_ROUTE, CONTACT_ROUTE, FAQ_ROUTE, HOME_ROUTE} from '../utils/consts';
@@ -24,7 +22,7 @@ const NavBar = () => {
                         className="ml-auto my-2 my-lg-0"
                         style={{ maxHeight: '100px' }}
                         >
-                            <NavDropdown className="" title={t('menu.portfolio')} id="basic-nav-dropdown">
+                            <NavDropdown className="indented-link" title={t('menu.portfolio')} id="basic-nav-dropdown">
                                 <NavDropdown.Item href="#action/3.1"><a href={WEDDINGS_ROUTE}>{t('menu.weddings')}</a></NavDropdown.Item>
                                 <NavDropdown.Item href="#action/3.2"><a href={LOVESTORIES_ROUTE}>{t('menu.lovestories')}</a></NavDropdown.Item>
                                 <NavDropdown.Item href="#action/3.3"><a href={PORTRAITS_ROUTE}>{t('menu.portraits')}</a></NavDropdown.Item> 
