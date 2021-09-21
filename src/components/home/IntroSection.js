@@ -14,7 +14,7 @@ const IntroSection = () => {
                 <Row><h2 className="section-title">{t('homeIntro.welcome')}</h2></Row>
                 <Row>
                     
-                    <div className="d-flex flex-column justify-content-center align-items-center">
+                    <div className="d-flex flex-column m-3 justify-content-center align-items-center">
                         <p className="section-text-emphasys-font text-style">{t('homeIntro.whoIAm')}</p>
                         <p>•••••</p>
                         <p className="section-text-emphasys-font text-style">{t('homeIntro.offer')}</p>

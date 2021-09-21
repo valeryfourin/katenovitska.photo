@@ -38,3 +38,8 @@
         width: 400px;}
     .portfolio-preview-main img {height: unset;}
 }
+
+@media screen and (max-width: 500px) {
+    .portfolio-preview-main {
+        width: 340px;}
+}
