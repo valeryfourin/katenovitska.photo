@@ -32,6 +32,9 @@ const PortfolioPage = (props) => {
             <div className="fullwidth-banner " style={{backgroundImage: `url(${photoshootItem.photos && photoshootItem.photos[0].src})`}}>
                 <h2 className="section-title">{photoshootItem.title}</h2>
             </div>
+            <div onClick={() => window.history.back()}>
+                <a className="indented-link" href={props.prevPage}>&#11164; Back</a>
+            </div>
                 <Fancybox options={{ infinite: false }}>
             <ResponsiveMasonry
                 columnsCountBreakPoints={{350: 1, 1100: 2, 1570: 3}}

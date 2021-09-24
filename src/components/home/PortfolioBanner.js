@@ -44,7 +44,7 @@ const PortfolioBanner = () => {
 
                     <div className="portfolio-item arisen-item">
                         <a href={PORTRAITS_ROUTE}>
-                            <div className="portfolio-preview-main zoomOnHover"><Image loading="lazy" src="./images/general/denisse-preview.jpg" alt="portraits"/></div>
+                            <div className="portfolio-preview-main zoomOnHover"><Image loading="lazy" src="./images/general/portraits-main.jpg" alt="portraits"/></div>
                             <p className="section-text-emphasys-font"> 
                                 {t('menu.portraits')}
                                 <span className="arrow-link">&#10148;</span>
@@ -53,8 +53,6 @@ const PortfolioBanner = () => {
                         </a>
                     </div>
                 </div>
-                
-                
             </Container>
         </section>
     );

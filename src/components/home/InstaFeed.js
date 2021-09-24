@@ -20,13 +20,13 @@ const InstaFeed = () => {
                     <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CTj1zNhrlnv/">
                         <Image src="../images/instafeed/post1.jpg" title="@katenovitska.photo" alt="instagram post"></Image>
                     </a>
+                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CTpHpferQY9/">
+                        <Image src="../images/instafeed/post5.jpg" title="@katenovitska.photo" alt="instagram post"></Image>
+                    </a>
                     <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CM9tSRPruJC/">
                         <Image src="../images/instafeed/post2.jpg" title="@katenovitska.photo" alt="instagram post"></Image>
                     </a>
                     <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CNKkkXCreNl/">
-                        <Image src="../images/instafeed/post3.jpg" title="@katenovitska.photo" alt="instagram post"></Image>
-                    </a>
-                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CNPnyyQL9tK/">
                         <Image src="../images/instafeed/post4.jpg" title="@katenovitska.photo" alt="instagram post"></Image>
                     </a>
                 </Row>

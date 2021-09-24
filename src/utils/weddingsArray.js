@@ -182,7 +182,51 @@ export class ValeriaRicky {
             },
             {
                 id: 45,
-                src: '../images/portfolio/weddings/valeria+ricky/DSC06620.jpg'
+                src: '../images/portfolio/weddings/valeria+ricky/DSC07026.jpg'
+            },
+            {
+                id: 46,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC06902.jpg'
+            },
+            {
+                id: 47,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC06949a.jpg'
+            },
+            {
+                id: 48,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC06953.jpg'
+            },
+            {
+                id: 49,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC06967.jpg'
+            },
+            {
+                id: 50,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC06992.jpg'
+            },
+            {
+                id: 51,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC06999.jpg'
+            },
+            {
+                id: 52,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC07021.jpg'
+            },
+            {
+                id: 53,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC06842.jpg'
+            },
+            {
+                id: 54,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC06593.jpg'
+            },
+            {
+                id: 55,
+                src: '../images/portfolio/weddings/valeria+ricky/DSC06235.jpg'
+            },
+            {
+                id: 55,
+                src: '../images/portfolio/weddings/valeria+ricky/valeryRickyDancing.gif'
             }
         ]
     }

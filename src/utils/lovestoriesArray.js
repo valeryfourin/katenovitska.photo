@@ -188,7 +188,7 @@ export class NikaDavid {
         this._photos = [
             {
                 id: 1, 
-                src: '../images/portfolio/lovestories/nika+david/DSC05090.jpg'
+                src: '../images/portfolio/lovestories/nika+david/DSC04843.jpg'
             },
             {
                 id: 2, 

@@ -12,6 +12,7 @@ const Footer = () => {
     return (
         <>
             <div className="footer ">
+                <div className="footer-bg"></div>
                 <div className="container">
                         <a href={HOME_ROUTE}>
                             <Image className="logo footer-logo" src="../images/logo.png" alt="logo"/>
