@@ -64,7 +64,10 @@ code {
 
 .arrow-link {
   font-size: 0.7em;
-  /* text-decoration: none !important; */
+}
+
+.back-link__arrow::before {
+  content: '\2B9C';
 }
 
 .navbar-light .navbar-nav .nav-link {

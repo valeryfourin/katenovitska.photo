@@ -28,10 +28,10 @@ export class Denisse {
                 id: 6, 
                 src: '../images/portfolio/portraits/denisse/web_KNP00081.jpg'
             },
-            {
-                id: 7, 
-                src: '../images/portfolio/portraits/denisse/web_KNP00141.jpg'
-            },
+            // {
+            //     id: 7, 
+            //     src: '../images/portfolio/portraits/denisse/web_KNP00141.jpg'
+            // },
             {
                 id: 8, 
                 src: '../images/portfolio/portraits/denisse/web_KNP00157.jpg'
@@ -64,10 +64,10 @@ export class Denisse {
                 id: 15, 
                 src: '../images/portfolio/portraits/denisse/web_KNP00276.jpg'
             },
-            {
-                id: 16, 
-                src: '../images/portfolio/portraits/denisse/web_KNP00297.jpg'
-            },
+            // {
+            //     id: 16, 
+            //     src: '../images/portfolio/portraits/denisse/web_KNP00297.jpg'
+            // },
             {
                 id: 17, 
                 src: '../images/portfolio/portraits/denisse/web_KNP00308.jpg'

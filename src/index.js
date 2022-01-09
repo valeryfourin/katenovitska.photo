@@ -8,7 +8,7 @@ import './i18n';
 import './fonts/didactgothic/DidactGothic-Regular.ttf';
 import './fonts/playfair/PlayfairDisplay-Regular.ttf';
 import './fonts/windsong/WindSong-Regular.ttf';
-import {ValeriaRicky, LaCarrionaAnna, AldanaJuanfer, NathyJoseLuis, LudmilaMarcelo} from './utils/weddingsArray';
+import {ValeriaRicky, LaCarrionaAnna, AldanaJuanfer, NathyJoseLuis, LudmilaMarcelo, MarianaNico, EliJose} from './utils/weddingsArray';
 import {PattyOrlando, NikaDavid, AnyaIllya} from './utils/lovestoriesArray';
 import {Denisse, Mishell} from './utils/portraitsArray';
 
@@ -22,6 +22,7 @@ ReactDOM.render(
       aldanaJuanfer: new AldanaJuanfer(),
       nathyJoseLuis: new NathyJoseLuis(),
       ludmilaMarcelo: new LudmilaMarcelo(),
+      marianaNico: new MarianaNico(),
       // love stories
       pattyOrlando: new PattyOrlando(),
       nikaDavid: new NikaDavid(),
@@ -29,6 +30,7 @@ ReactDOM.render(
       // portraits
       denisse: new Denisse(),
       mishell: new Mishell(),
+      eliJose: new EliJose(),
     }}>
     {/* <Suspense fallback={(<div>Loading</div>)}> */}
       {/* <Spinner animation="border" role="status" variant="danger">

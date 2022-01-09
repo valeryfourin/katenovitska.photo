@@ -17,16 +17,16 @@ const Contact = () => {
                     <div className="container m-1">
                         <Row><p className="text-center">{t('contactMe.location')}</p>
                         </Row>
-                        <Row className="mt-3">
-                            <div className="col-4 list-wrap" title="Contact me">
+                        <Row>
+                            <div className="col-12 col-sm-4 list-wrap mt-5 " title="Contact me">
                                 <p>Instagram:</p>
                                 <a href="https://www.instagram.com/katenovitska.photo/" rel="noreferrer" target="_blank">@katenovitska.photo</a>
                             </div>
-                            <div className="col-4 list-wrap" title="Email me">
+                            <div className="col-12 col-sm-4 list-wrap mt-5" title="Email me">
                                 <p>Email:</p>
                                 <a href="mailto:info@assercoex.com">katenovitska.photo@gmail.com</a>
                             </div>
-                            <div className="col-4 list-wrap" title="Call me">
+                            <div className="col-12 col-sm-4 list-wrap mt-5" title="Call me">
                                 <p>{t('contactMe.number')}:</p>
                                 <a href="tel:+593-98-623-4056">+593-98-623-4056</a>
                             </div>

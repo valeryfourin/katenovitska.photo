@@ -9,12 +9,12 @@ import Fancybox from '../../components/Fancybox';
 const PortfolioPage = (props) => {
     const {title:pageTitle} = useParams()
     const {
-        valeriaRicky, laCarrionaAnna, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, 
+        valeriaRicky, laCarrionaAnna, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose,
         pattyOrlando, nikaDavid, anyaIllya,
         denisse, mishell } = useContext(Context);
 
     const portfolioObjects = [
-        valeriaRicky, laCarrionaAnna, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, 
+        valeriaRicky, laCarrionaAnna, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose,
         pattyOrlando, nikaDavid, anyaIllya,
         denisse, mishell]
         
@@ -33,7 +33,7 @@ const PortfolioPage = (props) => {
                 <h2 className="section-title">{photoshootItem.title}</h2>
             </div>
             <div onClick={() => window.history.back()}>
-                <a className="indented-link" href={props.prevPage}>&#11164; Back</a>
+                <a className="indented-link back-link__arrow" href={props.prevPage}>Back</a>
             </div>
                 <Fancybox options={{ infinite: false }}>
             <ResponsiveMasonry
