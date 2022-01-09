@@ -33,7 +33,7 @@ const PortfolioPage = (props) => {
                 <h2 className="section-title">{photoshootItem.title}</h2>
             </div>
             <div onClick={() => window.history.back()}>
-                <a className="indented-link back-link__arrow" href={props.prevPage}>Back</a>
+                <a className="indented-link" href={props.prevPage}>&#8701; Back</a>
             </div>
                 <Fancybox options={{ infinite: false }}>
             <ResponsiveMasonry
