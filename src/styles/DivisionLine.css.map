@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC;EACX,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,GAAG;EACX,gBAAgB,EAAE,SAAS;EAC3B,MAAM,EAAE,IAAI;CACf",
+    "sources": [
+        "DivisionLine.scss"
+    ],
+    "names": [],
+    "file": "DivisionLine.css"
+}

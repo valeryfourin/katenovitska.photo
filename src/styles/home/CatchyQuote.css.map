@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,aAAa,CAAC;EACV,WAAW,EAAE,mBAAmB;EAChC,SAAS,EAAE,IAAI;EACf,KAAK,EAAE,KAAK;EAEZ,MAAM,EAAE,MAAM;EACd,UAAU,EAAE,MAAM;CACrB;;AAED,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,KAAK;EAC/B,AAAA,aAAa,CAAC;IACV,SAAS,EAAE,IAAI;GAClB",
+    "sources": [
+        "CatchyQuote.scss"
+    ],
+    "names": [],
+    "file": "CatchyQuote.css"
+}

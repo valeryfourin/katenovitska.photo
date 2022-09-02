@@ -8,7 +8,7 @@ import './i18n';
 import './fonts/didactgothic/DidactGothic-Regular.ttf';
 import './fonts/playfair/PlayfairDisplay-Regular.ttf';
 import './fonts/windsong/WindSong-Regular.ttf';
-import {ValeriaRicky, LaCarrionaAnna, AldanaJuanfer, NathyJoseLuis, LudmilaMarcelo, MarianaNico, EliJose} from './utils/weddingsArray';
+import {ValeriaRicky, MariaEmiliaIsrael, AldanaJuanfer, NathyJoseLuis, LudmilaMarcelo, MarianaNico, EliJose} from './utils/weddingsArray';
 import {PattyOrlando, NikaDavid, AnyaIllya} from './utils/lovestoriesArray';
 import {Denisse, Mishell} from './utils/portraitsArray';
 
@@ -18,7 +18,7 @@ ReactDOM.render(
     <Context.Provider value={{
       // weddings
       valeriaRicky: new ValeriaRicky(),
-      laCarrionaAnna: new LaCarrionaAnna(),
+      mariaEmiliaIsrael: new MariaEmiliaIsrael(),
       aldanaJuanfer: new AldanaJuanfer(),
       nathyJoseLuis: new NathyJoseLuis(),
       ludmilaMarcelo: new LudmilaMarcelo(),

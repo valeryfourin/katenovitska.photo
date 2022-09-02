@@ -1,0 +1,23 @@
+.contact-form {
+  margin-bottom: 50px;
+}
+
+.form-inner {
+  width: 900px;
+  margin: 40px 0px;
+  padding: 1px 30px;
+}
+
+@media screen and (max-width: 992px) {
+  .form-inner {
+    width: auto;
+  }
+  .form-inner input {
+    margin-bottom: 10px;
+  }
+  .form-inner textarea {
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
+}
+/*# sourceMappingURL=ContactForm.css.map */

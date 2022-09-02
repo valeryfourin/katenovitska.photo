@@ -1,0 +1,38 @@
+.portfolio-preview {
+  height: 700px;
+  background-position: center;
+  margin-bottom: 70px;
+  -webkit-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+
+.portfolio-preview:hover {
+  background-size: 115%;
+  -webkit-transition: all .5s ease-in-out;
+  transition: all .5s ease-in-out;
+}
+
+.photo-item {
+  width: 500px;
+  margin: 20px 0px;
+  cursor: pointer;
+}
+
+.masonry-container div {
+  margin: 0 auto;
+}
+
+.masonry-container {
+  width: 90vw;
+}
+
+@media screen and (max-width: 1200px) {
+  .photo-item {
+    width: 300px;
+  }
+  .portfolio-preview {
+    height: 600px;
+    margin-bottom: 0px;
+  }
+}
+/*# sourceMappingURL=PortfolioPage.css.map */

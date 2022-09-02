@@ -6,6 +6,9 @@
 }
 
 .arrowup {
+    background-image: url('../up-arrow.png');
+    background-position: center;
+    background-size: cover;
     width: 70px;
     height: 70px;
     transform: translateX(300%);

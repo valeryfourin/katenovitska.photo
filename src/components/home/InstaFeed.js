@@ -17,17 +17,17 @@ const InstaFeed = () => {
                         </a>
                     </div>
                 <Row className="insta-feed-wrap item-wrap">
-                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CTj1zNhrlnv/">
-                        <Image src="../images/instafeed/post1.jpg" title="@katenovitska.photo" alt="instagram post"></Image>
+                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CfwIhLTLdvn/">
+                        <Image src="../images/instafeed/post1.png" title="@katenovitska.photo" alt="instagram post"></Image>
                     </a>
-                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CTpHpferQY9/">
-                        <Image src="../images/instafeed/post5.jpg" title="@katenovitska.photo" alt="instagram post"></Image>
+                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CXyQTbcLG5D/">
+                        <Image src="../images/instafeed/post3.png" title="@katenovitska.photo" alt="instagram post"></Image>
                     </a>
-                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CM9tSRPruJC/">
-                        <Image src="../images/instafeed/post2.jpg" title="@katenovitska.photo" alt="instagram post"></Image>
+                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/Ccna78zL3ry/">
+                        <Image src="../images/instafeed/post2.png" title="@katenovitska.photo" alt="instagram post"></Image>
                     </a>
-                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CNKkkXCreNl/">
-                        <Image src="../images/instafeed/post4.jpg" title="@katenovitska.photo" alt="instagram post"></Image>
+                    <a className="list-item zoomOnHover insta-post-icon" href="https://www.instagram.com/p/CZRcRG9rRmk/">
+                        <Image src="../images/instafeed/post4.png" title="@katenovitska.photo" alt="instagram post"></Image>
                     </a>
                 </Row>
                     {/* <div className="additional-item">

@@ -1,6 +1,13 @@
 let isScrolling = false;
- 
-window.addEventListener("scroll", throttleScroll, false);
+
+function showToTopBtnOnScroll(){
+    (window.pageYOffset > 100) 
+        ?
+        document.getElementById("arrow").classList.add('is-shown')
+        :
+        document.getElementById("arrow").classList.remove('is-shown');
+}
+window.addEventListener("scroll", showToTopBtnOnScroll); 
 
 function throttleScroll(e) {
     if (isScrolling === false) {
@@ -12,7 +19,7 @@ function throttleScroll(e) {
     isScrolling = true;
 }
 
-document.addEventListener("DOMContentLoaded", scrolling, false);
+window.addEventListener("scroll", throttleScroll, false);
 
 let listItems = document.querySelectorAll(".arisen-item");
 
@@ -27,7 +34,7 @@ function scrolling(e) {
         listItem.classList.add("appear");
     } else {
         listItem.classList.remove("appear");
-    }
+        }
     }
 }
 
@@ -41,11 +48,4 @@ function isPartiallyVisible(el) {
     return ((top + height >= 0) && (height + window.innerHeight >= bottom));
 }
 
-function isFullyVisible(el) {
-    var elementBoundary = el.getBoundingClientRect();
-
-    var top = elementBoundary.top;
-    var bottom = elementBoundary.bottom;
-
-    return ((top >= 0) && (bottom <= window.innerHeight));
-  }
+document.addEventListener("DOMContentLoaded", scrolling, false);

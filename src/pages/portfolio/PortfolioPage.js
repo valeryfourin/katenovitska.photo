@@ -9,14 +9,14 @@ import Fancybox from '../../components/Fancybox';
 const PortfolioPage = (props) => {
     const {title:pageTitle} = useParams()
     const {
-        valeriaRicky, laCarrionaAnna, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose,
+        valeriaRicky, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose, mariaEmiliaIsrael,
         pattyOrlando, nikaDavid, anyaIllya,
         denisse, mishell } = useContext(Context);
 
     const portfolioObjects = [
-        valeriaRicky, laCarrionaAnna, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose,
+        valeriaRicky, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose, mariaEmiliaIsrael,
         pattyOrlando, nikaDavid, anyaIllya,
-        denisse, mishell]
+        denisse, mishell];
         
     const [photoshootItem, setPhotoshootItem] = useState({})
     useEffect(() => {
@@ -25,7 +25,8 @@ const PortfolioPage = (props) => {
                 setPhotoshootItem(obj);
             }
         });
-    })
+    });
+
     return (
         <>
         <section>

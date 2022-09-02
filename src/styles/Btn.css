@@ -1,0 +1,41 @@
+.default-btn {
+  width: 200px;
+  height: 60px;
+  border-radius: 50px;
+  border: none;
+  letter-spacing: 3px;
+  margin: 10px;
+  -webkit-box-shadow: 4px 4px 28px 0px rgba(34, 60, 80, 0.2);
+  box-shadow: 4px 4px 28px 0px rgba(34, 60, 80, 0.2);
+  -webkit-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+.default-btn:hover {
+  -webkit-box-shadow: 0px 5px 18px 2px rgba(0, 0, 0, 0.2) inset;
+  box-shadow: 0px 5px 18px 2px rgba(0, 0, 0, 0.2) inset;
+}
+
+.default-btn:active {
+  -webkit-box-shadow: 0px 5px 24px 2px rgba(34, 60, 80, 0.2) inset;
+  box-shadow: 0px 5px 24px 2px rgba(34, 60, 80, 0.2) inset;
+}
+
+.crimson {
+  background-color: #822838;
+  color: white;
+}
+
+.lime {
+  background-color: #E4DA77;
+}
+
+.white {
+  background-color: white;
+}
+
+.white:hover {
+  background-color: white;
+  color: black;
+}
+/*# sourceMappingURL=Btn.css.map */

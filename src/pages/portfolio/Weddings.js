@@ -7,7 +7,7 @@ import { COMPANY_NAME, WEDDINGS_ROUTE } from '../../utils/consts';
 
 const Weddings = () => {
     const { t } = useTranslation();
-    const {valeriaRicky, laCarrionaAnna, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose} = useContext(Context);
+    const {valeriaRicky, mariaEmiliaIsrael, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose} = useContext(Context);
     const currentPage = WEDDINGS_ROUTE;
     document.title = t('menu.weddings')  + ' - ' + COMPANY_NAME;
     return (
@@ -16,13 +16,13 @@ const Weddings = () => {
             <h2 className="section-title">{t('menu.weddings')}</h2> 
         </div>
             <Container className="item-wrap">
+                <PortfolioItem className="list-item flex-column portfolio-preview arisen-item" title={mariaEmiliaIsrael.title} url={mariaEmiliaIsrael.url} src={mariaEmiliaIsrael.preview} arr={mariaEmiliaIsrael.photos} prevPage={currentPage}/>
                 <PortfolioItem className="list-item flex-column portfolio-preview arisen-item" title={eliJose.title} url={eliJose.url} src={eliJose.preview} arr={eliJose.photos} prevPage={currentPage}/>
                 <PortfolioItem className="list-item flex-column portfolio-preview arisen-item" title={marianaNico.title} url={marianaNico.url} src={marianaNico.preview} arr={marianaNico.photos} prevPage={currentPage}/>
                 <PortfolioItem className="list-item flex-column portfolio-preview arisen-item" title={ludmilaMarcelo.title} url={ludmilaMarcelo.url} src={ludmilaMarcelo.preview} arr={ludmilaMarcelo.photos} prevPage={currentPage}/>
                 <PortfolioItem className="list-item flex-column portfolio-preview arisen-item" title={aldanaJuanfer.title} url={aldanaJuanfer.url} src={aldanaJuanfer.preview} arr={aldanaJuanfer.photos} prevPage={currentPage}/>
                 <PortfolioItem className="list-item flex-column portfolio-preview arisen-item" title={valeriaRicky.title} url={valeriaRicky.url} src={valeriaRicky.preview} arr={valeriaRicky.photos} prevPage={currentPage}/>
                 <PortfolioItem className="list-item flex-column portfolio-preview arisen-item" title={nathyJoseLuis.title} url={nathyJoseLuis.url} src={nathyJoseLuis.preview} arr={nathyJoseLuis.photos} prevPage={currentPage}/>
-                <PortfolioItem className="list-item flex-column portfolio-preview arisen-item" title={laCarrionaAnna.title} url={laCarrionaAnna.url} src={laCarrionaAnna.preview} arr={laCarrionaAnna.photos} prevPage={currentPage}/>
             </Container>
         </section>
     );

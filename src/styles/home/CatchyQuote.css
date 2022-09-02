@@ -1,0 +1,14 @@
+.catchy-quote {
+  font-family: 'WindSong', cursive;
+  font-size: 60px;
+  color: black;
+  margin: 30px 0;
+  text-align: center;
+}
+
+@media screen and (max-width: 600px) {
+  .catchy-quote {
+    font-size: 40px;
+  }
+}
+/*# sourceMappingURL=CatchyQuote.css.map */

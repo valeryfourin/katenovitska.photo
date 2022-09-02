@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,eAAe,CAAC;EACZ,MAAM,EAAE,IAAI;EACZ,eAAe,EAAE,KAAK;CACzB;;AAED,AAAA,iBAAiB,CAAC;EACd,qBAAqB,EAAE,MAAM;CAChC",
+    "sources": [
+        "RequestSection.scss"
+    ],
+    "names": [],
+    "file": "RequestSection.css"
+}
