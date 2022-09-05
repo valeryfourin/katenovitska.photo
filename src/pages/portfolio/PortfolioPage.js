@@ -43,14 +43,13 @@ const PortfolioPage = (props) => {
             >
                 <Masonry className="masonry-container">
                     {photoshootItem.photos && photoshootItem.photos.map(img => 
-                    <div className="zoomOnHover ">
+                    <div key={img.id} className="zoomOnHover ">
                         <Image 
                         className="photo-item item-lazy " 
                         src={img.src} 
                         loading="lazy"
                         data-fancybox="gallery"
                         data-src={img.src}
-                        key={img.id} 
                         />
                         </div>
                     )}

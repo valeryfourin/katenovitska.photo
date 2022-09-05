@@ -4,12 +4,8 @@ import '../styles/LangChoice.scss';
 import i18n from '../i18n.js';
 import ToTopArrow from './ToTopArrow';
 
-const LangChoice = ({t}) => {
-
-    const changeLanguage = (lng) => {
-        i18n.changeLanguage(lng);
-        // this.currentTarget.classList.add('current-lang');
-      }
+const LangChoice = () => {
+    const changeLanguage = (lng) => i18n.changeLanguage(lng);
 
     return (
         <Nav className="nav-header " id="top">
