@@ -9,3 +9,9 @@ export const FAQ_ROUTE = '/faq';
 export const POLICY_ROUTE = '/privacy-policy';
 
 export const COMPANY_NAME = 'KN Photo';
+
+export const routes = {
+    weddings: WEDDINGS_ROUTE,
+    loveStories: LOVESTORIES_ROUTE,
+    portraits: PORTRAITS_ROUTE
+}

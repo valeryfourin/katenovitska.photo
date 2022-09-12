@@ -8,29 +8,33 @@ import './i18n';
 import './fonts/didactgothic/DidactGothic-Regular.ttf';
 import './fonts/playfair/PlayfairDisplay-Regular.ttf';
 import './fonts/windsong/WindSong-Regular.ttf';
-import {ValeriaRicky, MariaEmiliaIsrael, AldanaJuanfer, NathyJoseLuis, LudmilaMarcelo, MarianaNico, EliJose} from './utils/weddingsArray';
-import {PattyOrlando, NikaDavid, AnyaIllya} from './utils/lovestoriesArray';
-import {Denisse, Mishell} from './utils/portraitsArray';
+import {aldanaJuanfer, mariaEmiliaIsrael, nathyJoseLuis, valeriaRicky, ludmilaMarcelo, marianaNico, eliJose, karenLorenzo} from './utils/weddings';
+import {pattyOrlando, nikaDavid, anyaIllya} from './utils/lovestories';
+import {denisse, mishell} from './utils/portraits';
 
 export const Context = createContext(null);
 ReactDOM.render(
   // <React.StrictMode>
     <Context.Provider value={{
-      // weddings
-      valeriaRicky: new ValeriaRicky(),
-      mariaEmiliaIsrael: new MariaEmiliaIsrael(),
-      aldanaJuanfer: new AldanaJuanfer(),
-      nathyJoseLuis: new NathyJoseLuis(),
-      ludmilaMarcelo: new LudmilaMarcelo(),
-      marianaNico: new MarianaNico(),
-      // love stories
-      pattyOrlando: new PattyOrlando(),
-      nikaDavid: new NikaDavid(),
-      anyaIllya: new AnyaIllya(),
-      // portraits
-      denisse: new Denisse(),
-      mishell: new Mishell(),
-      eliJose: new EliJose(),
+      weddings: {
+        karenLorenzo,
+        mariaEmiliaIsrael,
+        aldanaJuanfer,
+        valeriaRicky,
+        nathyJoseLuis,
+        eliJose,
+        ludmilaMarcelo,
+        marianaNico,
+      },
+      loveStories: {
+        pattyOrlando,
+        nikaDavid,
+        anyaIllya,
+      },
+      portraits: {
+        denisse,
+        mishell,
+      }
     }}>
     {/* <Suspense fallback={(<div>Loading</div>)}> */}
       {/* <Spinner animation="border" role="status" variant="danger">

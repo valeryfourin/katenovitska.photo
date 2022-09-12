@@ -7,26 +7,20 @@ import '../../styles/portfolio/PortfolioPage.scss';
 import Fancybox from '../../components/Fancybox';
 
 const PortfolioPage = (props) => {
-    const {title:pageTitle} = useParams()
-    const {
-        valeriaRicky, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose, mariaEmiliaIsrael,
-        pattyOrlando, nikaDavid, anyaIllya,
-        denisse, mishell } = useContext(Context);
+    const {title:pageTitle} = useParams();
+    const { weddings, loveStories, portraits } = useContext(Context);    
+    const [photoshootItem, setPhotoshootItem] = useState({});
 
-    const portfolioObjects = [
-        valeriaRicky, aldanaJuanfer, nathyJoseLuis, ludmilaMarcelo, marianaNico, eliJose, mariaEmiliaIsrael,
-        pattyOrlando, nikaDavid, anyaIllya,
-        denisse, mishell];
-        
-    const [photoshootItem, setPhotoshootItem] = useState({})
     useEffect(() => {
+        const portfolioObjects = [ ...Object.values(weddings), ...Object.values(loveStories), ...Object.values(portraits) ];
+    
         portfolioObjects.forEach(obj => {
             if (obj.url === pageTitle) {
                 setPhotoshootItem(obj);
             }
         });
-    });
-
+    }, [weddings, loveStories, portraits, pageTitle]);
+    
     return (
         <>
         <section>
@@ -43,14 +37,13 @@ const PortfolioPage = (props) => {
             >
                 <Masonry className="masonry-container">
                     {photoshootItem.photos && photoshootItem.photos.map(img => 
-                    <div className="zoomOnHover ">
+                    <div key={img.id || img.src} className="zoomOnHover ">
                         <Image 
                         className="photo-item item-lazy " 
                         src={img.src} 
                         loading="lazy"
                         data-fancybox="gallery"
                         data-src={img.src}
-                        key={img.id} 
                         />
                         </div>
                     )}
