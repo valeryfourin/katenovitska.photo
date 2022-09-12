@@ -3515,623 +3515,623 @@ export const eliJosePhotos = [
     }
 ];
 
-export const karenLorenzoPhotos = [
+export const saritaEdwinPhotos = [
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/preview.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/preview.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_1.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_1.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_2.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_2.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_3.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_3.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_4.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_4.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_5.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_5.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_6.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_6.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_7.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_7.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_8.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_8.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_9.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_9.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_10.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_10.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_11.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_11.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_12.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_12.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_13.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_13.jpg'
     },
     { 
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_14.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_14.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_15.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_15.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_16.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_16.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_17.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_17.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_18.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_18.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_19.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_19.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_20.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_20.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_21.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_21.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_22.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_22.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_23.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_23.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_24.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_24.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_25.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_25.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_26.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_26.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_27.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_27.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_28.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_28.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_29.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_29.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_30.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_30.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_31.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_31.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_32.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_32.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_33.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_33.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_34.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_34.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_35.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_35.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_36.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_36.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_37.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_37.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_38.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_38.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_39.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_39.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_40.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_40.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_41.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_41.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_42.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_42.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_43.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_43.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_44.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_44.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_45.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_45.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_46.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_46.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_47.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_47.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_48.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_48.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_49.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_49.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_50.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_50.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_51.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_51.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_52.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_52.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_53.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_53.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_54.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_54.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_55.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_55.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_56.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_56.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_57.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_57.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_58.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_58.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_59.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_59.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_60.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_60.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_61.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_61.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_62.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_62.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_63.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_63.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_64.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_64.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_65.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_65.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_66.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_66.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_67.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_67.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_68.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_68.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_69.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_69.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_70.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_70.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_71.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_71.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_72.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_72.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_73.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_73.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_74.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_74.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_75.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_75.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_76.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_76.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_77.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_77.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_78.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_78.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_79.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_79.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_80.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_80.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_81.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_81.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_82.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_82.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_83.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_83.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_84.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_84.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_85.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_85.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_86.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_86.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_87.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_87.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_88.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_88.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_89.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_89.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_90.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_90.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_91.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_91.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_92.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_92.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_93.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_93.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_94.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_94.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_95.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_95.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_96.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_96.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_97.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_97.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_98.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_98.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_99.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_99.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_100.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_100.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_101.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_101.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_102.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_102.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_103.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_103.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_104.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_104.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_105.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_105.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_106.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_106.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_107.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_107.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_108.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_108.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_109.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_109.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_110.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_110.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_111.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_111.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_112.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_112.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_113.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_113.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_114.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_114.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_115.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_115.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_116.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_116.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_117.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_117.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_118.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_118.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_119.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_119.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_120.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_120.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_121.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_121.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_122.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_122.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_123.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_123.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_124.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_124.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_125.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_125.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_126.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_126.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_127.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_127.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_128.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_128.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_129.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_129.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_130.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_130.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_131.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_131.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_132.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_132.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_133.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_133.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_134.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_134.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_135.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_135.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_136.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_136.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_137.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_137.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_138.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_138.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_139.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_139.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_140.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_140.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_141.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_141.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_142.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_142.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_143.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_143.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_144.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_144.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_145.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_145.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_146.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_146.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_147.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_147.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_148.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_148.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_149.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_149.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_150.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_150.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_151.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_151.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_152.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_152.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_153.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_153.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_154.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_154.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_155.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_155.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_156.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_156.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_157.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_157.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_158.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_158.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_159.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_159.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_160.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_160.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_161.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_161.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_162.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_162.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_163.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_163.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_164.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_164.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_165.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_165.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_166.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_166.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_167.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_167.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_168.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_168.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_169.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_169.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_170.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_170.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_171.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_171.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_172.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_172.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_173.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_173.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_174.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_174.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_175.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_175.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_176.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_176.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_177.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_177.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_178.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_178.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_179.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_179.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_180.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_180.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_181.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_181.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_182.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_182.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_183.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_183.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_184.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_184.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_185.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_185.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_186.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_186.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_187.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_187.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_188.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_188.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_189.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_189.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_190.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_190.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_191.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_191.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_192.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_192.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_193.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_193.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_194.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_194.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_195.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_195.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_196.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_196.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_197.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_197.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_198.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_198.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_199.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_199.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_200.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_200.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_201.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_201.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_202.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_202.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_203.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_203.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_204.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_204.jpg'
     },
     {
-        src: '../images/portfolio/weddings/karen+lorenzo/photo_205.jpg'
+        src: '../images/portfolio/weddings/sarita+edwin/photo_205.jpg'
     },
 ];
