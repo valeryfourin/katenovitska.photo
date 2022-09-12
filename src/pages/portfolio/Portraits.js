@@ -4,7 +4,7 @@ import { useTranslation } from 'react-i18next';
 import { Context } from '../../index';
 import PortfolioItem from '../../components/portfolio/PortfolioItem';
 import { COMPANY_NAME, routes } from '../../utils/consts';
-import { isNotEmpty } from '../../utils/isEmpty';
+import { isNotEmpty } from '../../utils/isNotEmpty';
 
 const Portraits = () => {
     const { t } = useTranslation();
@@ -20,8 +20,6 @@ const Portraits = () => {
                 {isNotEmpty(portraits) && Object.values(portraits).map((portrait) => (
                     <PortfolioItem key={portrait.url} className="list-item flex-column portfolio-preview arisen-item" title={portrait.title} url={portrait.url} src={portrait.previewImg} arr={portrait.photos} prevPage={routes.portraits}/>
                 ))}
-                {/* <PortfolioItem className="list-item flex-column portfolio-preview " title={denisse.title} url={denisse.url} src={denisse.preview} arr={denisse.photos} prevPage={currentPage}/>
-                <PortfolioItem className="list-item flex-column portfolio-preview " title={mishell.title} url={mishell.url} src={mishell.preview} arr={mishell.photos} prevPage={currentPage}/> */}
             </Container>
         </section>
     );

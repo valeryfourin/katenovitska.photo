@@ -23,9 +23,9 @@ const NavBar = () => {
                         style={{ maxHeight: '100px' }}
                         >
                             <NavDropdown className="indented-link" title={t('menu.portfolio')} id="basic-nav-dropdown">
-                                <NavDropdown.Item href="#action/3.1"><a href={WEDDINGS_ROUTE}>{t('menu.weddings')}</a></NavDropdown.Item>
-                                <NavDropdown.Item href="#action/3.2"><a href={LOVESTORIES_ROUTE}>{t('menu.lovestories')}</a></NavDropdown.Item>
-                                <NavDropdown.Item href="#action/3.3"><a href={PORTRAITS_ROUTE}>{t('menu.portraits')}</a></NavDropdown.Item> 
+                                <NavDropdown.Item href={WEDDINGS_ROUTE} ><a href={WEDDINGS_ROUTE}>{t('menu.weddings')}</a></NavDropdown.Item>
+                                <NavDropdown.Item href={LOVESTORIES_ROUTE} ><a href={LOVESTORIES_ROUTE}>{t('menu.lovestories')}</a></NavDropdown.Item>
+                                <NavDropdown.Item href={PORTRAITS_ROUTE} ><a href={PORTRAITS_ROUTE}>{t('menu.portraits')}</a></NavDropdown.Item> 
                             </NavDropdown>
                             <span className="division-dot">•</span>
                             <a className="indented-link" href={ABOUT_ROUTE}>{t('menu.about')}</a>
