@@ -4360,3 +4360,360 @@ export const karenLorenzoPhotos = [
         src: '../images/portfolio/weddings/karen+lorenzo/photo_73.jpg'
     },
 ];
+
+export const yasSebastianPhotos = [
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/preview.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_1.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_2.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_3.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_4.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_5.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_6.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_7.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_8.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_9.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_10.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_11.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_12.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_13.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_14.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_15.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_16.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_17.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_18.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_19.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_20.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_21.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_22.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_23.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_24.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_25.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_26.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_27.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_28.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_29.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_30.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_31.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_32.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_33.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_34.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_35.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_36.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_37.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_38.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_39.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_40.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_41.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_42.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_43.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_44.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_45.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_46.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_47.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_48.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_49.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_50.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_51.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_52.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_53.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_54.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_55.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_56.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_57.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_58.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_59.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_60.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_61.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_62.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_63.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_64.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_65.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_66.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_67.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_68.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/yas+sebastian/photo_69.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_70.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_71.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_72.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_73.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_74.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_75.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_76.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_77.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_78.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_79.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_80.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_81.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_82.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_83.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_84.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_85.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_86.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_87.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_88.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_89.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_90.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_91.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_92.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_93.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_94.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_95.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_96.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_97.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_98.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_99.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_100.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_101.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_102.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_103.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_104.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_105.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_106.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_107.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_108.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_109.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_110.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_111.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_112.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_113.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_114.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_115.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_116.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/yas+sebastian/photo_117.jpg'
+    },
+];

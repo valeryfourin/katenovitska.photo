@@ -4,6 +4,7 @@ import {
     aldanaJuanferPhotos,
     nathyJoseLuisPhotos,
     karenLorenzoPhotos,
+    yasSebastianPhotos,
     valeriaRickyPhotos,
     saritaEdwinPhotos,
     marianaNicoPhotos,
@@ -19,6 +20,7 @@ export const marianaNico = new Photoshoot('Mariana + Niko', 'mariana+nico', '../
 export const eliJose = new Photoshoot('Eli + Jose Pedro', 'eli+jose', '../images/portfolio/weddings/eli+jose/photo_144.jpg', eliJosePhotos);
 export const saritaEdwin = new Photoshoot('Sarita + Edwin', 'sarita+edwin', '../images/portfolio/weddings/sarita+edwin/preview.jpg', saritaEdwinPhotos);
 export const karenLorenzo = new Photoshoot('Karen + Lorenzo', 'karen+lorenzo', '../images/portfolio/weddings/karen+lorenzo/preview.jpg', karenLorenzoPhotos);
+export const yasSebastian = new Photoshoot('Yas + Sebastian', 'yas+sebastian', '../images/portfolio/weddings/yas+sebastian/preview.jpg', yasSebastianPhotos);
 
 
 
