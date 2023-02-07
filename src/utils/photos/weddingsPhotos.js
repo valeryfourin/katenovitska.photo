@@ -4135,3 +4135,228 @@ export const saritaEdwinPhotos = [
         src: '../images/portfolio/weddings/sarita+edwin/photo_205.jpg'
     },
 ];
+
+export const karenLorenzoPhotos = [
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/preview.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_1.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_2.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_3.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_4.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_5.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_6.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_7.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_8.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_9.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_10.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_11.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_12.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_13.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_14.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_15.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_16.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_17.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_18.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_19.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_20.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_21.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_22.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_23.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_24.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_25.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_26.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_27.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_28.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_29.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_30.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_31.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_32.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_33.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_34.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_35.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_36.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_37.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_38.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_39.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_40.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_41.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_42.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_43.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_44.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_45.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_46.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_47.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_48.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_49.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_50.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_51.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_52.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_53.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_54.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_55.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_56.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_57.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_58.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_59.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_60.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_61.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_62.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_63.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_64.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_65.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_66.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_67.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_68.jpg'
+    },
+    { 
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_69.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_70.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_71.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_72.jpg'
+    },
+    {
+        src: '../images/portfolio/weddings/karen+lorenzo/photo_73.jpg'
+    },
+];

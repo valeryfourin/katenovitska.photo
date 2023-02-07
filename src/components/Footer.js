@@ -21,13 +21,13 @@ const Footer = () => {
                             <a href="mailto:katenovitska.photo@gmail.com" title="Email" >
                                 <Image className="contact-img shadowed-element" src="../images/icons/socials/mail.png" alt="mail"/>
                             </a>
-                            <a href="tel:+593-98-623-4056" title="Phone call">
+                            <a href="tel:+15877774707" title="Phone call">
                                 <Image className="contact-img shadowed-element" src="../images/icons/socials/phone.png" alt="phone"/>
                             </a>
                             <a href="https://www.instagram.com/katenovitska.photo/" title="Instagram" rel="noreferrer" target="_blank">
                                 <Image className="contact-img shadowed-element" src="../images/icons/socials/instagram.png" alt="instagram"/>
                             </a>
-                            <a href="https://wa.me/593939211809" title="WhatsApp" rel="noreferrer" target="_blank">
+                            <a href="https://wa.me/15877774707" title="WhatsApp" rel="noreferrer" target="_blank">
                                 <Image className="contact-img shadowed-element" src="../images/icons/socials/whatsapp.png" alt="whatsapp"/>
                             </a>
                             <a href="https://www.facebook.com/katenovitska.photo/" title="Facebook" rel="noreferrer" target="_blank">
@@ -45,8 +45,8 @@ const Footer = () => {
                         <a href={CONTACT_ROUTE}>
                             <Btn className="row white" variant="light" text={t('contactMe.text')}/>
                         </a>
-                        <div className="row wrap">Web troubleshoot? Please contact &nbsp;<a href="mailto:valefourin@gmail.com">valefourin@gmail.com</a></div>
-                        <div className="pb-4 wrap text-center">KN Photography Copyright &#169; 2022 all rights reserved </div>
+                        <div className="row wrap">Web troubleshoot? Please contact &nbsp;<a href="mailto:valeriia.novitska@gmail.com">valeriia.novitska@gmail.com</a></div>
+                        <div className="pb-4 wrap text-center">KN Photography Copyright &#169; {new Date().getFullYear()} all rights reserved </div>
                 </div>
             </div>
         </>

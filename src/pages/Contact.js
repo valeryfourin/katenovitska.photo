@@ -15,7 +15,8 @@ const Contact = () => {
         <Container className="d-flex flex-column align-items-center arisen-item">
                 <div className=" m-3 d-flex flex-column align-items-center">
                     <div className="container m-1">
-                        <Row><p className="text-center">{t('contactMe.location')}</p>
+                        <Row>
+                            <p className="text-center">{t('contactMe.location')}</p>
                         </Row>
                         <Row>
                             <div className="col-12 col-sm-4 list-wrap mt-5 " title="Contact me">
@@ -28,18 +29,17 @@ const Contact = () => {
                             </div>
                             <div className="col-12 col-sm-4 list-wrap mt-5" title="Call me">
                                 <p>{t('contactMe.number')}:</p>
-                                <a href="tel:+593-98-623-4056">+593-98-623-4056</a>
+                                <a href="tel:+15877774707">+1 587 777 4707</a>
                             </div>
                         </Row>
                         <Row className="list-item justify-content-center mt-5"> 
                             <u>
-                                <a title="Viber" href="viber://chat?number=+593939211809">Viber</a>, 
-                                <a title="WhatsApp" href="https://wa.me/593939211809">WhatsApp</a>, 
+                                <a title="Viber" href="viber://chat?number=+15877774707">Viber</a>, 
+                                <a title="WhatsApp" href="https://wa.me/15877774707">WhatsApp</a>, 
                                 <a title="Telegram" href="tg://resolve?domain=katenovitska">Telegram</a>,
                                 <a title="Facebook" href="https://www.facebook.com/katenovitska.photo/">Facebook</a>    
                             </u>
                         </Row>
-                        
                     </div>
                 </div>
                 <Container className="wrap mt-5">

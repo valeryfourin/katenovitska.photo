@@ -1,11 +1,12 @@
 import { 
-    mariaEmiliaIsraelPhotos, 
-    ludmilaMarceloPhotos, 
-    aldanaJuanferPhotos, 
-    nathyJoseLuisPhotos, 
-    valeriaRickyPhotos, 
+    mariaEmiliaIsraelPhotos,
+    ludmilaMarceloPhotos,
+    aldanaJuanferPhotos,
+    nathyJoseLuisPhotos,
+    karenLorenzoPhotos,
+    valeriaRickyPhotos,
     saritaEdwinPhotos,
-    marianaNicoPhotos,  
+    marianaNicoPhotos,
     eliJosePhotos } from "./photos/weddingsPhotos";
 import { Photoshoot } from "./Photoshoot";
 
@@ -17,6 +18,7 @@ export const ludmilaMarcelo = new Photoshoot('Ludmila + Marcelo', 'ludmila+marce
 export const marianaNico = new Photoshoot('Mariana + Niko', 'mariana+nico', '../images/portfolio/weddings/mariana+nico/photo_94.jpg', marianaNicoPhotos);
 export const eliJose = new Photoshoot('Eli + Jose Pedro', 'eli+jose', '../images/portfolio/weddings/eli+jose/photo_144.jpg', eliJosePhotos);
 export const saritaEdwin = new Photoshoot('Sarita + Edwin', 'sarita+edwin', '../images/portfolio/weddings/sarita+edwin/preview.jpg', saritaEdwinPhotos);
+export const karenLorenzo = new Photoshoot('Karen + Lorenzo', 'karen+lorenzo', '../images/portfolio/weddings/karen+lorenzo/preview.jpg', karenLorenzoPhotos);
 
 
 

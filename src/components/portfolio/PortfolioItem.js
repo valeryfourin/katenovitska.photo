@@ -7,7 +7,7 @@ const PortolioItem = (props) => {
         <div className={' ' + props.className}>
             <a href={PORTFOLIO_ROUTE + '/' + props.url}>
             <div className="portfolio-preview-main zoomOnHover">
-                <Image src={props.src} alt="weddings"/>
+                <Image src={props.src} alt={`${props.title}`}/>
             </div>
             <p className="section-text-emphasys-font text-center">{props.title}</p>
             </a>
