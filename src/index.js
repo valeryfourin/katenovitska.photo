@@ -10,7 +10,7 @@ import './fonts/playfair/PlayfairDisplay-Regular.ttf';
 import './fonts/windsong/WindSong-Regular.ttf';
 
 import {aldanaJuanfer, mariaEmiliaIsrael, nathyJoseLuis, valeriaRicky, ludmilaMarcelo, 
-        marianaNico, eliJose, saritaEdwin, karenLorenzo, yasSebastian} from './utils/weddings';
+        marianaNico, eliJose, saritaEdwin, karenLorenzo, yasSebastian, joseFer, belenFelipe} from './utils/weddings';
 import {pattyOrlando, nikaDavid, anyaIllya} from './utils/lovestories';
 import {denisse, mishell} from './utils/portraits';
 
@@ -19,6 +19,8 @@ ReactDOM.render(
   // <React.StrictMode>
     <Context.Provider value={{
       weddings: {
+        belenFelipe,
+        joseFer,
         yasSebastian,
         karenLorenzo,
         saritaEdwin,
