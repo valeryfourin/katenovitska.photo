@@ -570,7 +570,7 @@ export const tusharRakshaPhotos = [
     },
     {
         id: 19, 
-        src: '../images/portfolio/lovestories/tushar+raksha/T+R-91_websize.jpg'
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-19_websize.jpg'
     },
     {
         id: 20, 
