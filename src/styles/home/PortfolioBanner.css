@@ -15,16 +15,13 @@
 .zoomOnHover {
   overflow: hidden;
 }
-
 .zoomOnHover img {
-  -webkit-transition: all .5s ease-in-out;
-  transition: all .5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 .portfolio-item:hover .zoomOnHover img,
 .zoomOnHover:hover img {
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 @media screen and (max-width: 1200px) {
@@ -35,7 +32,6 @@
     height: 500px;
   }
 }
-
 @media screen and (max-width: 774px) {
   .portfolio-preview-main {
     height: unset;
@@ -45,10 +41,8 @@
     height: unset;
   }
 }
-
 @media screen and (max-width: 500px) {
   .portfolio-preview-main {
     width: 340px;
   }
-}
-/*# sourceMappingURL=PortfolioBanner.css.map */
+}/*# sourceMappingURL=PortfolioBanner.css.map */

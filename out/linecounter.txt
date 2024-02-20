@@ -64,7 +64,6 @@ public\images\icons\rose (2).png, it is a binary file.
 public\images\icons\rose (3).png, it is a binary file.
 public\images\icons\rose (4).png, it is a binary file.
 public\images\icons\rose.png, it is a binary file.
-public\images\icons\russia.svg, code is 38, comment is 0, blank is 0.
 public\images\icons\shipped.png, it is a binary file.
 public\images\icons\sketch.png, it is a binary file.
 public\images\icons\telegram.png, it is a binary file.
@@ -271,7 +270,6 @@ public\images\icons\rose-2.png, it is a binary file.
 public\images\icons\rose-3.png, it is a binary file.
 public\images\icons\rose-4.png, it is a binary file.
 public\images\icons\rose-5.png, it is a binary file.
-public\images\icons\russia.svg, code is 38, comment is 0, blank is 0.
 public\images\icons\shipped.png, it is a binary file.
 public\images\icons\sketch.png, it is a binary file.
 public\images\icons\skype.png, it is a binary file.

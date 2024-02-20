@@ -1,4 +1,4 @@
-.certificates img {
+.certificate__image {
     width: 30vw;
     margin: 10px 10px;
 }
@@ -29,12 +29,12 @@
     height: 100%;
 }
 
-.mywed-badge img{
+.mywed-badge img {
     width: 200px;
 }
   
 @media screen and (max-width: 1300px) {
-    .certificates img {
+    .certificate__image {
       width: 40vw;
     }
 }
@@ -46,7 +46,7 @@
           -ms-flex-direction: column;
               flex-direction: column;
     }
-    .certificates img {
+    .certificate__image {
       width: 60vw;
     }
 }

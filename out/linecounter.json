@@ -348,12 +348,6 @@
                     "comment": 0
                 },
                 {
-                    "blank": 0,
-                    "code": 38,
-                    "comment": 0,
-                    "filename": "public\\images\\icons\\russia.svg"
-                },
-                {
                     "filename": "public\\images\\icons\\shipped.png",
                     "isbinaryfile": true,
                     "blank": 0,
@@ -1606,12 +1600,6 @@
                     "blank": 0,
                     "code": 0,
                     "comment": 0
-                },
-                {
-                    "blank": 0,
-                    "code": 38,
-                    "comment": 0,
-                    "filename": "public\\images\\icons\\russia.svg"
                 },
                 {
                     "filename": "public\\images\\icons\\shipped.png",

@@ -33,7 +33,7 @@ const PortfolioPage = (props) => {
                 <Fancybox options={{ infinite: false }}>
             <ResponsiveMasonry
                 columnsCountBreakPoints={{350: 1, 1100: 2, 1570: 3}}
-                className="wrap section-indent"
+                className="wrap"
             >
                 <Masonry className="masonry-container">
                     {photoshootItem.photos && photoshootItem.photos.map(img => 

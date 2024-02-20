@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,YAAY,CAAC;EACT,kBAAkB,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,qBAAqB;EACzD,eAAe,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,qBAAqB;EACtD,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,qBAAqB;EACjD,aAAa,EAAE,IAAI;EACnB,MAAM,EAAE,QACZ;CAAC",
-    "sources": [
-        "CardQuestion.scss"
-    ],
-    "names": [],
-    "file": "CardQuestion.css"
-}
+{"version":3,"sources":["CardQuestion.scss","CardQuestion.css"],"names":[],"mappings":"AAAA;EAGI,iDAAA;EACA,mBAAA;EACA,gBAAA;ACCJ","file":"CardQuestion.css"}

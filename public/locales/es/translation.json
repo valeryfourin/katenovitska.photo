@@ -32,17 +32,24 @@
         "text4": "¡Mándame un correo electrónico y me ocuparé de ti!"
     },
     "homeIntro": {
-        "welcome": "¡Bienvenidos!",
-        "whoIAm": "Soy una fotógrafa ucraniana en Canada y vivo para tomar fotos desde que tengo memoria. Me encantan las bodas y todo lo que conlleva: cada detalle, cada momento, el amor en el aire, pero sobre todo ser parte del compromiso de dos personas enamoradas.",
-        "offer": " Viajar es mi debilidad, no hay nada como conocer nuevos lugares y personas. ¡Poder juntar mis dos mayores pasiones es lo mejor! Vivo en una constante búsqueda de mejorar mi técnica.",
-        "work": " Mi inspiración la encuentro en muchas cosas diarias de la vida. Adoro mi trabajo porque puedo conocer personas nuevas, hacerles reír, crear emociones vivas y sonrisas sinceras y aparte me dan la oportunidad de capturar una pequeña parte de su belleza."
+        "welcome": "¡Bienvenidos a la Kate Novitska Wedding Photography!",
+        "whoIAm": "¡Hola y gracias por visitar mi rincón en la web! Soy Kate Novitska, una apasionada fotógrafa de bodas ucraniana con sede en Calgary.",
+        "whyChooseMe": "¿Por qué elegirme?",
+        "reason1_highlight": "Experta en Bodas. ",
+        "reason1": "Me especializo en capturar la magia de las bodas, desde los grandes momentos hasta los pequeños detalles.",
+        "reason2_highlight": "Perfección Fotográfica. ",
+        "reason2": "Cada foto recibe un toque de magia. Creo en la belleza natural, con un toque de mejora artística para que sus recuerdos brillen.",
+        "reason3_highlight": "Plurilingüe. ",
+        "reason3": "Idiomas que hablo: Inglés, español, ucraniano, ruso; elija su preferencia. Estoy aquí para asegurarme de que se sienta cómodo y comprendido.",
+        "offer": " Mientras navega por mi portafolio, espero que sienta el amor y la alegría que he tenido el privilegio de presenciar y capturar. Su historia es única y merece ser contada con autenticidad y artística.",
+        "work": " Gracias por considerar a Kate Novitska Photography. Espero con ansias ser parte de su día especial y crear recuerdos visuales que perdurarán toda la vida."
     },
     "aboutMe": { 
-        "name": "Mi nombre es Kate Novitska",
-        "passion": "y me encanta tomar fotos! Nunca dejo de mejorar mi técnica, siempre quiero hacer los mejores golpes!",
-        "bestPart": "¡La mejor parte de mi trabajo es hacerte reír, crear emociones genuinas y sonrisas sinceras!",
-        "guarantee": "Mi mayor garantía es que la pasaremos en grande durante la sesión de fotos y al final recibirás hermosas fotos para recordarlo.",
-        "work": "Echa un vistazo a mi trabajo. ¡Espero que te guste!"
+        "name": "",
+        "passion": "Me quiero presentar a todos los que me leen, soy Kateryna Novitska y nací en Ucrania en una ciudad ni tan grande, ni tan chiquita que se llama Vinnitsa. Y cuando tenia 15 años le conocí a mi futuro esposo que vino a estudiar a mi ciudad desde Ecuador y era 2 años mayor en ese entonces. Y ya se imaginan: el primer beso, primer amor y después de 5 años de la universidad (de hecho, al graduarme recibí mi diploma de lingüista y maestría en pedagogía de inglés, alemán y literatura) vine a Ecuador.",
+        "bestPart": "Del principio era bastante complicado, por que le extrañaba a mi familia y a mi país y no me acostumbraba mucho. Pero después logré a encontrar un empleo y empecé a trabajar en la exportación de flores. Y la pregunta es: para que demonios estudie 5 años en la u? Ni yo misma la puedo responder, nunca quise ser profesora. En fin, después mi esposo me compro mi primera cámara profesional y por fin empecé a hacer algo por lo que tengo una pasión insuperable. Al momento vivo 10 años en Ecuador y me gusta mucho.",
+        "guarantee": "A medida que pasaba el tiempo, tuvimos esta brillante idea: ¿por qué no encontrar un nuevo lugar al que llamar hogar? Así que aquí estoy, por segunda vez en mi vida, empezando de nuevo en un país completamente nuevo. Sin amigos, sin familiares, solo yo, mi esposo, mi princesita de 4 años y un grupo de amigables canadienses que están a punto de convertirse en nuestros nuevos mejores amigos. Elegimos Canadá porque, bueno, el jarabe de arce y el frío terrible simplemente parecían la elección correcta.",
+        "work": "La moraleja de esta historia es: niños, realmente busquen su verdadera vocación para que no desperdicien sus mejores años en algo que no les sirva en la vida."
     },
     "close": {
         "text": "Cerrar"

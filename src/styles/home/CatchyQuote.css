@@ -1,5 +1,5 @@
 .catchy-quote {
-  font-family: 'WindSong', cursive;
+  font-family: "WindSong", cursive;
   font-size: 60px;
   color: black;
   margin: 30px 0;
@@ -10,5 +10,4 @@
   .catchy-quote {
     font-size: 40px;
   }
-}
-/*# sourceMappingURL=CatchyQuote.css.map */
+}/*# sourceMappingURL=CatchyQuote.css.map */

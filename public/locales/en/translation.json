@@ -33,17 +33,23 @@
         "text4": "Do not hesitate to fill in the form below and I will contact you!"
     },
     "homeIntro": {
-        "welcome": "Welcome!", 
-        "whoIAm": "I am a Ukrainian photographer in Canada and I have lived to take photos for as long as I can remember. I love weddings and everything that comes with it: every detail, every moment, love in the air, but above all to be part of the commitment of two people in love.",
-        "offer": " Traveling is my weakness, there is nothing like getting to know new places and people. Being able to combine my two greatest passions is the best! I live in a constant search to improve my technique.",
-        "work": " I find my inspiration in many daily things in life. I love my job because I can meet new people, make them laugh, create genuine emotions and sincere smiles and I am given an opportunity to capture a small part of their beauty."
+        "welcome": "Welcome to Kate Novitska Wedding Photography", 
+        "whoIAm": "Hello, and thank you for visiting my corner of the web! I'm Kate Novitska, a passionate Ukrainian wedding photographer in Calgary.",
+        "whyChooseMe": "Why Choose Me?",
+        "reason1_highlight": "Wedding Expert. ",
+        "reason1": "I specialize in capturing the magic of weddings, from the big moments to the small details.",
+        "reason2_highlight": "Photo Perfection. ",
+        "reason2": "Every photo gets a touch of magic. I believe in natural beauty, with a hint of artistic enhancement to make your memories shine.",
+        "reason3_highlight": "Multilingual. ",
+        "reason3": "Languages I Speak: English, Spanish, Ukrainian, Russian - pick your preference. I'm here to make sure you feel comfortable and understood.",
+        "offer": "As you navigate through my portfolio, I hope you feel the love and joy that I've had the privilege to witness and capture. Your story is unique, and it deserves to be told with authenticity and artistry.",
+        "work": "Thank you for considering Kate Novitska Photography. I look forward to being a part of your special day and crafting visual memories that will last a lifetime."
     },
     "aboutMe": {
-        "name": "My name is Kate Novitska",
-        "passion": "and I love taking photos! I never stop improving my technique, I always want to take the best shots!",
-        "bestPart": "The best part of my job is making you laugh, creating genuine emotions and sincere smiles!",
-        "guarantee": "My greatest guarantee is that we will have a great time during the photoshoot and in the end you will recieve beautiful photos to remember it.",
-        "work": "Take a look at my work. I hope you like it!"
+        "passion": "I’m Kateryna Novitska, and I was born in Ukraine in a city not too big, not too small, called Vinnitsa. When I was 17 years old, I met my future husband. He came to study in my city from Ecuador and was 2 years older at the time. You can imagine how it goes: first kiss, first love, and after 5 years of university (in fact, I received my degree in linguistics and a master’s in English, German, and literature), I came to Ecuador.",
+        "bestPart": "At first, it was quite challenging because I missed my family and my country, and I had trouble adjusting. But then I found a job and started working in the flower export industry. So, you might ask, why did I spend 5 years in college? I can’t even answer that myself; I never wanted to be a teacher. Anyway, my husband bought me my first professional camera, and I finally started doing something I’m incredibly passionate about. I lived in Ecuador for 10 years, and I really enjoyed it.",
+        "guarantee": "As time went on, we had this brilliant idea - why not find a new place to call home? So here I am, for the second time in my life, starting over in a whole new country. No friends, no relatives – just me, my hubby, my 4-year-old princess, and a bunch of friendly Canadians who are about to become our new besties. We chose Canada because, well, maple syrup and terrible cold just seemed like the right way to go!",
+        "work": "The moral of this story is: kids, really search for your true calling so you don’t waste your best years on something that won’t serve you in life."
     },
     "close": {
         "text": "Close"

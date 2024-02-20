@@ -490,3 +490,181 @@ export const anyaIllyaPhotos = [
         src: '../images/portfolio/lovestories/anya+illya/web_KNP04993.jpg'
     }
 ];
+
+export const tusharRakshaPhotos = [
+    {
+        id: 1, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-1_websize.jpg'
+    },
+    {
+        id: 2, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-2_websize.jpg'
+    },
+    {
+        id: 3, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-3_websize.jpg'
+    },
+    {
+        id: 4, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-4_websize.gif'
+    },
+    {
+        id: 5, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-5_websize.jpg'
+    },
+    {
+        id: 5, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-5a_websize.jpg'
+    },
+    {
+        id: 6, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-6_websize.jpg'
+    },
+    {
+        id: 7, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-7_websize.jpg'
+    },
+    {
+        id: 8, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-8_websize.jpg'
+    },
+    {
+        id: 9, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-9_websize.jpg'
+    },
+    {
+        id: 10, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-10_websize.jpg'
+    },
+    {
+        id: 11, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-11_websize.jpg'
+    },
+    {
+        id: 12, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-12_websize.jpg'
+    },
+    {
+        id: 13, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-13_websize.jpg'
+    },
+    {
+        id: 14, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-14_websize.jpg'
+    },
+    {
+        id: 15, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-15_websize.jpg'
+    },
+    {
+        id: 16, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-16_websize.jpg'
+    },
+    {
+        id: 17, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-17_websize.jpg'
+    },
+    {
+        id: 18, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-18_websize.jpg'
+    },
+    {
+        id: 19, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-91_websize.jpg'
+    },
+    {
+        id: 20, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-20_websize.jpg'
+    },
+    {
+        id: 21, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-21_websize.jpg'
+    },
+    {
+        id: 22, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-22_websize.jpg'
+    },
+    {
+        id: 23, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-23_websize.jpg'
+    },
+    {
+        id: 24, 
+        src: '../images/portfolio/lovestories/tushar+raksha/T+R-24_websize.jpg'
+    },
+];
+
+export const sofiRobPhotos = [
+    {
+        id: 1, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-1_websize.jpg'
+    },
+    {
+        id: 2, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-2_websize.jpg'
+    },
+    {
+        id: 3, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-3_websize.jpg'
+    },
+    {
+        id: 4, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-4_websize.jpg'
+    },
+    {
+        id: 5, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-5_websize.jpg'
+    },
+    {
+        id: 6, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-6_websize.jpg'
+    },
+    {
+        id: 7, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-7_websize.jpg'
+    },
+    {
+        id: 8, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-8_websize.jpg'
+    },
+    {
+        id: 9, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-9_websize.jpg'
+    },
+    {
+        id: 10, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-10_websize.jpg'
+    },
+    {
+        id: 11, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-11_websize.jpg'
+    },
+    {
+        id: 12, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-12_websize.jpg'
+    },
+    {
+        id: 13, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-13_websize.jpg'
+    },
+    {
+        id: 14, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-14_websize.jpg'
+    },
+    {
+        id: 15, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-15_websize.jpg'
+    },
+    {
+        id: 16, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-16_websize.jpg'
+    },
+    {
+        id: 17, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-17_websize.jpg'
+    },
+    {
+        id: 18, 
+        src: '../images/portfolio/lovestories/sofi+rob/S+R-18_websize.jpg'
+    },
+];

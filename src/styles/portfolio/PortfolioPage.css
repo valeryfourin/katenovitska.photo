@@ -2,14 +2,12 @@
   height: 700px;
   background-position: center;
   margin-bottom: 70px;
-  -webkit-transition: all .5s ease-in-out;
-  transition: all .5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 .portfolio-preview:hover {
   background-size: 115%;
-  -webkit-transition: all .5s ease-in-out;
-  transition: all .5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 .photo-item {
@@ -27,12 +25,16 @@
 }
 
 @media screen and (max-width: 1200px) {
-  .photo-item {
-    width: 300px;
-  }
   .portfolio-preview {
     height: 600px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
   }
 }
-/*# sourceMappingURL=PortfolioPage.css.map */
+@media screen and (max-width: 750px) {
+  .portfolio-preview {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+    margin-bottom: 10px;
+  }
+}/*# sourceMappingURL=PortfolioPage.css.map */

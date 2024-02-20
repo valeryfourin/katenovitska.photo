@@ -1,7 +1,7 @@
 .logo {
     width: 200px;
     margin-bottom: 20px;
-    transition: all 1s ease-in-out;
+    transition: all .3s ease-in-out;
 }
 
 .logo:hover {
@@ -69,7 +69,7 @@ a.dropdown-item:hover {
 }
 
 .navmenu {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 // overriding bootstrap style to prevent dropdown from hiding behind main banner

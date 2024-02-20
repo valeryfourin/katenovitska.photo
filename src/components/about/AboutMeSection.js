@@ -1,9 +1,8 @@
 import React from 'react';
 import { Container, Image, Row } from 'react-bootstrap';
 import { useTranslation } from 'react-i18next';
-import { NavLink } from 'react-router-dom';
-import "../../styles/about/AboutMeSection.scss";
 import { LOVESTORIES_ROUTE, PORTRAITS_ROUTE, WEDDINGS_ROUTE } from '../../utils/consts';
+import "../../styles/about/AboutMeSection.scss";
 
 const AboutMeSection = () => {
     const { t } = useTranslation();
@@ -16,20 +15,20 @@ const AboutMeSection = () => {
                 <div className="col-lg-5 col-md-12 d-flex justify-content-center align-items-center zoomOnHover">
                     <Image className="about-us-img" src="./images/general/photographer.jpg" alt="photographer avatar" title="Kate Novitska, photographer"/>
                 </div>
-                <div className="col-lg-6 col-md-12 d-flex flex-column justify-content-center align-items-center">
+                <div className="col-lg-7 col-md-12 d-flex flex-column justify-content-center align-items-center">
                     <Row><h2 className="section-title hide-on-mobile">{t('menu.about')}</h2></Row>
                     <div className="about-us-container container">
-                        <h4 className="about-us-par-vocative mb-4">{t('aboutMe.name')}</h4>
+                        {/* <h4 className="about-us-par-vocative mb-4">{t('aboutMe.name')}</h4> */}
                         <p className="about-us-par">{t('aboutMe.passion')}</p>
                         <p className="about-us-par">{t('aboutMe.bestPart')}</p>
                         <p className="about-us-par">{t('aboutMe.guarantee')}</p>
                         <p className="about-us-par">{t('aboutMe.work')}</p>
 
-                        <ul>
-                            <li><NavLink to={WEDDINGS_ROUTE}>{t('menu.weddings')}</NavLink></li>
-                            <li><NavLink to={LOVESTORIES_ROUTE}>{t('menu.lovestories')}</NavLink></li>
-                            <li><NavLink to={PORTRAITS_ROUTE}>{t('menu.portraits')}</NavLink></li>
-                        </ul>
+                        {/* <ul>
+                            <li><a href={WEDDINGS_ROUTE}>{t('menu.weddings')}</a></li>
+                            <li><a href={LOVESTORIES_ROUTE}>{t('menu.lovestories')}</a></li>
+                            <li><a href={PORTRAITS_ROUTE}>{t('menu.portraits')}</a></li>
+                        </ul> */}
 
                     </div>
                 </div>

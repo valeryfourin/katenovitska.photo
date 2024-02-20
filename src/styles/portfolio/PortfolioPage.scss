@@ -1,6 +1,5 @@
 .portfolio-preview {
     height: 700px;
-    // width: 500px;
     background-position: center;
     // background-size: cover;
     margin-bottom: 70px;
@@ -27,11 +26,15 @@
 }
 
 @media screen and (max-width: 1200px) {
-    .photo-item {
-        width: 300px;
-    }
     .portfolio-preview {
         height: 600px;
-        margin-bottom: 0px;
+        margin-bottom: 10px;
     }
-  }
+}
+
+@media screen and (max-width: 750px) {
+    .portfolio-preview {
+        height: fit-content;
+        margin-bottom: 10px;
+    }
+}

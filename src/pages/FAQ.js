@@ -19,7 +19,7 @@ const FAQ = () => {
             <Container className="mb-5 mt-5">
                 <Accordion>
                   <CardQuestion className="arisen-item" question={t('faq.q1')} answer={t('faq.a1')} eventKey='1'/>
-                  <CardQuestionWithLink className="arisen-item" question={t('faq.q2')} answer1={t('faq.a21')} answer2={t('faq.a22')} link={t('faq.a2link')}eventKey='13'/>
+                  <CardQuestionWithLink className="arisen-item" question={t('faq.q2')} answer1={t('faq.a21')} answer2={t('faq.a22')} link={t('faq.a2link')} eventKey='13'/>
                   <CardQuestion className="arisen-item" question={t('faq.q3')} answer={t('faq.a3')} eventKey='3'/>
                   <CardQuestion className="arisen-item" question={t('faq.q4')} answer={t('faq.a4')} eventKey='4'/>
                   <CardQuestion className="arisen-item" question={t('faq.q5')} answer={t('faq.a5')} eventKey='5'/>
