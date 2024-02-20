@@ -1,9 +1,1 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,gBAAgB,CAAC;EACb,SAAS,EAAE,IAAI;CAClB;;AAED,AAAA,gBAAgB,CAAC;EACb,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CAChB;;AAED,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,MAAM;EAChC,AAAA,gBAAgB,CAAC;IACb,KAAK,EAAE,KAAK;IACZ,MAAM,EAAE,KAAK;GAChB",
-    "sources": [
-        "InstaFeed.scss"
-    ],
-    "names": [],
-    "file": "InstaFeed.css"
-}
+{"version":3,"sources":["InstaFeed.scss","InstaFeed.css"],"names":[],"mappings":"AAAA;EACI,eAAA;ACCJ;;ADEA;EACI,YAAA;EACA,aAAA;ACCJ;;ADEA;EACI;IACI,YAAA;IACA,aAAA;ECCN;AACF","file":"InstaFeed.css"}

@@ -1,8 +1,7 @@
 import React from 'react';
 import { Accordion, Card } from 'react-bootstrap';
-import { NavLink } from 'react-router-dom';
-import '../../styles/faq/CardQuestion.scss';
 import { CONTACT_ROUTE } from '../../utils/consts';
+import '../../styles/faq/CardQuestion.scss';
 
 const CardQuestion = (props) => {
     return (
@@ -12,7 +11,7 @@ const CardQuestion = (props) => {
           </Accordion.Toggle>
           <Accordion.Collapse eventKey={props.eventKey}>
             <Card.Body>{props.answer1}
-              <NavLink to={CONTACT_ROUTE}>{props.link}</NavLink>
+            <a href={CONTACT_ROUTE}>{props.link}</a>
               {props.answer2}
             </Card.Body>
           </Accordion.Collapse>

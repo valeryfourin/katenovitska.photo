@@ -89,11 +89,10 @@ a:active {
 section {
   position: relative;
   z-index: 10;
-  margin: 50px 0px;
 }
 
 .section-indent {
-  margin: 150px 0px;
+  margin: 50px 0px;
 }
 
 .wrap {
@@ -108,9 +107,8 @@ section {
 .item-wrap {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  margin: 50px 0px;
 }
 
 .list-wrap {
@@ -128,8 +126,9 @@ section {
 
 .section-title {
   font-family: 'PlayfairDisplay', serif;
-  font-size: 60px;
+  font-size: 45px;
   margin-bottom: 50px;
+  text-align: center;
 }
 
 .section-subtitle {

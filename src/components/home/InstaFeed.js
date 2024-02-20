@@ -1,8 +1,6 @@
 import React from 'react';
 import { Container, Image, Row } from 'react-bootstrap';
 import { useTranslation } from 'react-i18next';
-// import { NavLink } from 'react-router-dom';
-// import { FAQ_ROUTE } from '../../utils/consts';
 import '../../styles/home/InstaFeed.scss';
 
 const InstaFeed = () => {
@@ -30,14 +28,6 @@ const InstaFeed = () => {
                         <Image src="../images/instafeed/post4.png" title="@katenovitska.photo" alt="instagram post"></Image>
                     </a>
                 </Row>
-                    {/* <div className="additional-item">
-                        <p>{t('moreInfo.text1')}</p>
-                        <p>{t('moreInfo.text2')}
-                            <NavLink className="active-link" to={FAQ_ROUTE}> FAQ</NavLink>
-                        </p>
-                        <p>{t('moreInfo.text3')}</p>
-                        <p>{t('moreInfo.text4')}</p>
-                    </div> */}
             </Container>
             
 

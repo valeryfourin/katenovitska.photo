@@ -11,15 +11,12 @@
   background-size: cover;
   width: 70px;
   height: 70px;
-  -webkit-transform: translateX(300%);
-          transform: translateX(300%);
-  -webkit-transition: all .5s ease-in-out;
-  transition: all .5s ease-in-out;
+  transform: translateX(300%);
+  transition: all 0.5s ease-in-out;
 }
 
 .arrowup.is-shown {
-  -webkit-transform: translateX(0%);
-          transform: translateX(0%);
+  transform: translateX(0%);
 }
 
 @media screen and (max-width: 500px) {
@@ -31,5 +28,4 @@
     width: 50px;
     height: 50px;
   }
-}
-/*# sourceMappingURL=ToTopArrow.css.map */
+}/*# sourceMappingURL=ToTopArrow.css.map */

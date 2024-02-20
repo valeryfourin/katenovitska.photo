@@ -2,12 +2,8 @@
   width: 100vw;
   height: 85vh;
   position: absolute;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  justify-content: center;
 }
 
 .front-image {
@@ -20,5 +16,4 @@
   background-position: center;
   background-repeat: no-repeat;
   background-position: 70% 70%;
-}
-/*# sourceMappingURL=FrontImage.css.map */
+}/*# sourceMappingURL=FrontImage.css.map */

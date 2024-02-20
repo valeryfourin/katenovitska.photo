@@ -8,7 +8,7 @@ import '../../styles/home/PortfolioBanner.scss';
 const PortfolioBanner = () => {
     const { t } = useTranslation();
     return ( 
-        <section className="wrap">
+        <section className="wrap section-indent">
             {/* <Row><h2 className="section-title">{t('ourServices.title')}</h2></Row> */}
             <div className="fullwidth-banner arisen-item" style={{backgroundImage: 'url(../images/general/portfolio-main.jpg)'}}>
                 <a href={WEDDINGS_ROUTE}>

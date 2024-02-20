@@ -1,13 +1,11 @@
 .logo {
   width: 200px;
   margin-bottom: 20px;
-  -webkit-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 
 .logo:hover {
-  -webkit-transform: scale(1.1);
-          transform: scale(1.1);
+  transform: scale(1.1);
 }
 
 .logo.footer-logo {
@@ -26,16 +24,12 @@
 }
 
 .menu-container {
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  flex-direction: column;
 }
 
 .dropdown-menu.show {
   max-width: 220px;
-  -webkit-transition: all .5s ease-in-out;
-  transition: all .5s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 .navbar-toggler {
@@ -70,7 +64,7 @@ a.dropdown-item:hover {
 }
 
 .navmenu {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .navbar-nav {
@@ -81,5 +75,4 @@ a.dropdown-item:hover {
   .navmenu {
     margin-bottom: 0px;
   }
-}
-/*# sourceMappingURL=NavMenu.css.map */
+}/*# sourceMappingURL=NavMenu.css.map */

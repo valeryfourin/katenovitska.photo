@@ -11,10 +11,10 @@ window.addEventListener("scroll", showToTopBtnOnScroll);
 
 function throttleScroll(e) {
     if (isScrolling === false) {
-    window.requestAnimationFrame(function() {
-        scrolling(e);
-        isScrolling = false;
-    });
+        window.requestAnimationFrame(function() {
+            scrolling(e);
+            isScrolling = false;
+        });
     }
     isScrolling = true;
 }
@@ -25,15 +25,11 @@ let listItems = document.querySelectorAll(".arisen-item");
 
 function scrolling(e) {
     for (let i = 0; i < listItems.length; i++) {
-        
         let listItem = listItems[i];
-
-    if (isPartiallyVisible(listItem)) {
-        
-        
-        listItem.classList.add("appear");
-    } else {
-        listItem.classList.remove("appear");
+        if (isPartiallyVisible(listItem)) {
+            listItem.classList.add("appear");
+        } else {
+            listItem.classList.remove("appear");
         }
     }
 }

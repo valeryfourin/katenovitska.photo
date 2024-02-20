@@ -1,17 +1,17 @@
 import React, { createContext } from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import './responsive.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import './i18n';
 import './fonts/didactgothic/DidactGothic-Regular.ttf';
 import './fonts/playfair/PlayfairDisplay-Regular.ttf';
 import './fonts/windsong/WindSong-Regular.ttf';
+import './index.css';
+import './responsive.css';
 
 import {aldanaJuanfer, mariaEmiliaIsrael, nathyJoseLuis, valeriaRicky, ludmilaMarcelo, 
         marianaNico, eliJose, saritaEdwin, karenLorenzo, yasSebastian, joseFer, belenFelipe} from './utils/weddings';
-import {pattyOrlando, nikaDavid, anyaIllya} from './utils/lovestories';
+import {pattyOrlando, nikaDavid, anyaIllya, tusharRaksha, sofiRob} from './utils/lovestories';
 import {denisse, mishell} from './utils/portraits';
 
 export const Context = createContext(null);
@@ -33,6 +33,8 @@ ReactDOM.render(
         marianaNico,
       },
       loveStories: {
+        tusharRaksha,
+        sofiRob,
         pattyOrlando,
         nikaDavid,
         anyaIllya,
