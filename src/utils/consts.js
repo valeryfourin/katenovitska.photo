@@ -8,7 +8,7 @@ export const CONTACT_ROUTE = '/contact';
 export const FAQ_ROUTE = '/faq';
 export const POLICY_ROUTE = '/privacy-policy';
 
-export const COMPANY_NAME = 'KN Photo';
+export const COMPANY_NAME = 'Kate Novitska - Wedding Photographer in Calgary';
 
 export const routes = {
     weddings: WEDDINGS_ROUTE,

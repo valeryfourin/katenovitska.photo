@@ -46,7 +46,7 @@ const Footer = () => {
                             <Btn className="row white" variant="light" text={t('contactMe.text')}/>
                         </a>
                         <div className="row wrap">Web troubleshoot? Please contact &nbsp;<a href="mailto:valeriia.novitska@gmail.com">valeriia.novitska@gmail.com</a></div>
-                        <div className="pb-4 wrap text-center">KN Photography Copyright &#169; {new Date().getFullYear()} all rights reserved </div>
+                        <div className="pb-4 wrap text-center">Kate Novitska Wedding Photography Copyright &#169; {new Date().getFullYear()} all rights reserved </div>
                 </div>
             </div>
         </>
